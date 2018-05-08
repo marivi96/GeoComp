@@ -1,0 +1,708 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
+14914619,Couch sharing - weekends,89655729,Sj,,Kingston upon Thames,51.40675862,-0.276854887,Shared room,11,1,0,,,2,364
+7327883,Comfortable king size sofa bed,2526745,Nicci,,Kingston upon Thames,51.39064615,-0.310918625,Shared room,25,1,5,19/06/2016,0.34,1,88
+3359489,Stylishly simple coach surfing,9402045,Edward,,Kingston upon Thames,51.40431726,-0.257102392,Shared room,26,6,0,,,3,365
+14535520,Modern flat in Kingston,10407160,Andrew,,Kingston upon Thames,51.40713375,-0.307181515,Shared room,25,2,0,,,1,83
+9339731,Yellow Sub lifeboat,48473937,Anthony,,Kingston upon Thames,51.40780029,-0.307668805,Shared room,60,1,0,,,1,365
+10768054,Spare bed for a classic narrowboat,47583292,Jennifer,,Kingston upon Thames,51.40465611,-0.307728891,Shared room,15,1,0,,,1,180
+7252154,Large Double room in great location,2574270,Jeremy,,Croydon,51.36620345,-0.101402327,Shared room,32,3,9,12/09/2016,0.69,1,342
+14533460,Bedspace in modern 2 bedroom flat in Croydon,20596797,Chris,,Croydon,51.37900916,-0.096476161,Shared room,45,1,0,,,2,31
+14351852,"Modern room within a warm, welcoming family home",87562063,Dyema,,Croydon,51.3943584,-0.074592891,Shared room,30,1,7,23/09/2016,3.56,1,167
+14910446,THREE 2gether (Joy room),46403919,Patricia,,Bromley,51.39245551,0.124919007,Shared room,15,2,1,23/09/2016,1,2,364
+12535272,Comfortable  Twin room,45121665,Kim,,Bromley,51.42384064,0.024836358,Shared room,25,1,0,,,3,337
+8835580,Double Sofa Bed in Modern Flat,40004714,Ruth,,Bromley,51.41481519,-0.049141241,Shared room,20,2,58,27/09/2016,4.87,2,235
+9205192,Stunning Ground Floor - private rm,46497904,Danielle,,Bromley,51.40498917,0.027123727,Shared room,40,2,1,22/09/2016,1,2,361
+14233192,London room to share ( hounslow ),60544453,Christophe,,Hounslow,51.46501986,-0.358830564,Shared room,12,1,4,13/09/2016,3.75,18,265
+8113652,Hounslow/Heathrow Double Room,7043264,Trevor,,Hounslow,51.45724791,-0.370855327,Shared room,50,1,1,21/09/2015,0.08,1,363
+13842955,London room to share (hounslow ),60544453,Christophe,,Hounslow,51.46802023,-0.359983595,Shared room,10,1,0,,,18,265
+14262924,London room to share ( hounslow ),60544453,Christophe,,Hounslow,51.46658963,-0.357685734,Shared room,11,1,3,17/08/2016,1.5,18,265
+13731064,London room to share (hounslow),60544453,Christophe,,Hounslow,51.46670929,-0.370612247,Shared room,12,1,2,31/08/2016,0.71,18,265
+13549746,London room to share ( hounslow),60544453,Christophe,,Hounslow,51.46971423,-0.358308364,Shared room,11,1,4,22/08/2016,1.35,18,265
+11999623,VERY COMFY SOFA in Feltham near LHR,63134238,Karen,,Hounslow,51.43600676,-0.416851866,Shared room,12,1,1,01/04/2016,0.16,2,0
+15278749,King Size Sofa Bed in Lounge,37942265,Patricia Achish,,Hounslow,51.44549681,-0.411592842,Shared room,15,1,0,,,1,173
+14263507,London room to share ( hounslow ),60544453,Christophe,,Hounslow,51.46526587,-0.369621584,Shared room,12,1,2,18/08/2016,1.2,18,265
+13995451,London room to share (hounslow),60544453,Christophe,,Hounslow,51.46639329,-0.357755673,Shared room,11,1,3,03/08/2016,1.27,18,265
+13883219,London room to share ( hounslow ),60544453,Christophe,,Hounslow,51.46504676,-0.369055168,Shared room,12,1,6,17/09/2016,2.5,18,265
+9023624,Cosy Sofa Bed Just for You,47108929,Ono,,Hounslow,51.46983964,-0.395651702,Shared room,30,1,0,,,1,0
+14220990,London room to share (hounslow),60544453,Christophe,,Hounslow,51.46810942,-0.357779302,Shared room,12,1,0,,,18,265
+14741843,London room to share (hounslow ),60544453,Christophe,,Hounslow,51.46526147,-0.36800121,Shared room,12,1,1,17/09/2016,1,18,273
+14740941,London room to share ( hounslow ),60544453,Christophe,,Hounslow,51.466058,-0.359687613,Shared room,12,1,0,,,18,266
+14740599,London room to share   ( hounslow ),60544453,Christophe,,Hounslow,51.4702886,-0.363670229,Shared room,12,1,0,,,18,265
+14063899,London room to share ( hounslow),60544453,Christophe,,Hounslow,51.46585787,-0.359244793,Shared room,12,1,5,04/09/2016,2.46,18,265
+13800638,London room to share (hounslow ),60544453,Christophe,,Hounslow,51.46680293,-0.370396752,Shared room,12,1,10,02/09/2016,3.7,18,265
+7767810,Penthouse Brentford (River Side),40854442,Kash,,Hounslow,51.48457226,-0.302997327,Shared room,30,7,6,28/02/2016,0.53,1,357
+13843180,London room to share (hounslow),60544453,Christophe,,Hounslow,51.46947395,-0.359782168,Shared room,11,1,1,30/07/2016,0.45,18,265
+14101828,London room to share ( hounslow ),60544453,Christophe,,Hounslow,51.46574931,-0.369696645,Shared room,12,1,1,17/08/2016,0.63,18,265
+13658145,London room to share ( hounslow),60544453,Christophe,,Hounslow,51.4656041,-0.36894905,Shared room,12,1,6,24/08/2016,1.82,18,267
+15191672,Cosy Double Room great location in london,4096594,Caline,,Ealing,51.52317787,-0.26019217,Shared room,70,2,0,,,1,44
+12239302,ROOM 7. BED&BREAKFAST CASPIAN HOTEL,58814998,Samandar,,Ealing,51.5140002,-0.304075197,Shared room,65,2,0,,,8,365
+14993741,"Single room in Greenford, London",94502495,Rosha,,Ealing,51.52743466,-0.356999849,Shared room,30,1,0,,,1,365
+12239208,ROOM 6. BED&BREAKFAST CASPIAN HOTEL,58814998,Samandar,,Ealing,51.51348982,-0.304854905,Shared room,65,2,0,,,8,365
+7753694,Arty Room to rent,40766405,Shantella,,Ealing,51.50760246,-0.351991328,Shared room,30,1,15,20/08/2016,1.1,1,363
+4438891,studio flat,23040066,Mali,,Ealing,51.52695161,-0.288267587,Shared room,60,3,0,,,1,365
+13738396,The Happy House - Acton Town,80417467,Diana,,Ealing,51.50285231,-0.282883772,Shared room,18,1,1,10/09/2016,1,2,364
+12239362,ROOM 8. BED&BREAKFAST CASPIAN HOTEL,58814998,Samandar,,Ealing,51.51390795,-0.302666403,Shared room,65,2,0,,,8,365
+5421651,Couchsurfing in Ealing,28096093,Alexis,,Ealing,51.52119014,-0.309321852,Shared room,22,1,3,21/09/2015,0.2,2,365
+11227101,share room in west london,58510003,Scar,,Ealing,51.504097,-0.329613662,Shared room,20,3,0,,,1,0
+14495300,Space share available,89482710,Alex,,Ealing,51.50030894,-0.267928948,Shared room,30,1,0,,,2,356
+7803106,Shared room for a female -ONE SPACE,34597311,Rose,,Ealing,51.50393626,-0.288105958,Shared room,19,1,7,03/09/2016,1.3,1,0
+13787844,Spacious shared room,80416887,(PHONE NUMBER HIDDEN),,Ealing,51.50291671,-0.279440224,Shared room,18,1,2,15/09/2016,2,1,0
+9987230,"Huge couch, Acton/Shepherd's Bush",51314924,Farah,,Ealing,51.50999256,-0.250192283,Shared room,21,1,29,28/09/2016,3.22,1,269
+13929699,Cosy single  bed  in living room,78725514,Yordanka,,Havering,51.5635262,0.160723056,Shared room,20,1,3,25/09/2016,1.55,3,56
+15308808,Quick Night Sleep,97506118,Yaman,,Hillingdon,51.50267363,-0.456854889,Shared room,50,1,0,,,1,174
+11653683,North west LONDON 5 min to station,61825278,Jacek,,Hillingdon,51.60119227,-0.410754006,Shared room,50,1,0,,,1,365
+8126370,Heathrow,42913243,Gurpreet,,Hillingdon,51.50202798,-0.437895052,Shared room,29,1,10,24/02/2016,0.76,1,90
+15203945,Shared Room with one bed in a hotel,90073207,Ankit,,Hillingdon,51.50363529,-0.450466496,Shared room,40,1,0,,,1,365
+1858659,Couch surfing up to 5 guests,4387079,Keyzer,,Hillingdon,51.5129297,-0.433346485,Shared room,17,1,18,31/08/2016,0.66,3,365
+2386634,Beautiful studio flat to share,12191311,K,,Harrow,51.56714014,-0.348804709,Shared room,25,1,0,,,1,365
+5318429,Amazing place to stay  Free Parking,25274743,Rush,,Harrow,51.6052835,-0.273372909,Shared room,60,1,0,,,1,365
+13017215,"Raj ,lives in London since 16years.",71846366,Rajaji,,Harrow,51.58292229,-0.3642048,Shared room,40,1,0,,,1,89
+12305568,Great roomshare to enjoy London!,29904662,Franciene,,Brent,51.55181489,-0.221967404,Shared room,18,3,0,,,5,216
+12164995,247londonhostel,57989340,Gareth,,Brent,51.54749994,-0.211072869,Shared room,13,2,14,25/09/2016,2.49,32,342
+13984734,"World hostel London NW6, BEST HOSTEL IN LONDON!!",57989340,Gareth,,Brent,51.5468445,-0.208996267,Shared room,14,2,4,21/09/2016,2.03,32,348
+14115477,"Hostel dorm in London, best price hostel in London",57989340,Gareth,,Brent,51.54537065,-0.210465024,Shared room,14,2,5,24/09/2016,2.68,32,349
+13183897,365London Hostel NW2,57989340,Gareth,,Brent,51.54620992,-0.210290098,Shared room,14,2,6,22/07/2016,1.49,32,342
+4303986,Friendly Family Hosting,22341396,Doris,,Brent,51.54713625,-0.253294794,Shared room,69,1,0,,,1,365
+8677860,Large double bed sofa,31026854,Claudiu,,Brent,51.5616875,-0.276410885,Shared room,38,1,11,15/09/2016,0.95,3,363
+2677926,Double sofabed - Bakerloo line.,13711088,Daniel,,Brent,51.5315724,-0.22771589,Shared room,40,1,0,,,1,364
+13135801,Double room in lovely Kensal Green area,66623072,Mei-Ling,,Brent,51.53343321,-0.227958003,Shared room,33,5,0,,,1,0
+15257347,Couch in happy cosy room (near central London),19995557,Bevin Ng,,Brent,51.53606295,-0.1951234,Shared room,15,3,0,,,1,90
+14922982,shared room,93701374,Florence,,Brent,51.54498775,-0.203493158,Shared room,22,1,1,15/09/2016,1,1,0
+12659957,Budget hostel in London loco price,57989340,Gareth,,Brent,51.54583762,-0.209220385,Shared room,15,2,6,10/08/2016,1.28,32,350
+13720058,World hostel for amigos in London,57989340,Gareth,,Brent,51.54555487,-0.210332669,Shared room,14,2,8,19/09/2016,2.61,32,350
+8122548,"Great room, great location!",29904662,Franciene,,Brent,51.55022935,-0.221553031,Shared room,15,2,18,13/07/2016,1.54,5,229
+7611607,Large Sofa in Sitting Room,39864276,Alexander,,Brent,51.53287231,-0.196860624,Shared room,19,1,4,04/10/2015,0.31,2,0
+12574811,247london home hostel,57989340,Gareth,,Brent,51.54664915,-0.210591428,Shared room,17,2,13,02/10/2016,2.45,32,344
+12047495,247London hostel 10 bed dorm  room in hostel,57989340,Gareth,,Brent,51.5474531,-0.210806444,Shared room,17,2,2,02/07/2016,0.5,32,284
+10071534,1 Twin Room  Available,51677996,Imi,,Brent,51.53270872,-0.21673239,Shared room,45,1,0,,,1,0
+12937384,London hostel dorm in Kilburn  NW2,57989340,Gareth,,Brent,51.54698679,-0.207841171,Shared room,12,2,9,21/08/2016,1.99,32,335
+14115217,"Great hostel in London, welcome to stay xx",57989340,Gareth,,Brent,51.54538641,-0.209768589,Shared room,15,2,4,30/09/2016,2,32,364
+13719657,People of the world hostel London (2),57989340,Gareth,,Brent,51.54636901,-0.208590544,Shared room,15,2,2,25/07/2016,0.7,32,350
+9885660,Share room with Double bed,44716314,Manuel,,Brent,51.57735681,-0.309460129,Shared room,17,1,0,,,2,365
+15123982,A nice bedroom in Wembley,95860896,Mellish,,Brent,51.55562078,-0.299765396,Shared room,224,1,0,,,1,365
+13267905,"female dorm only in hostel NW2, Loco price xx",57989340,Gareth,,Brent,51.54759804,-0.209959521,Shared room,14,2,2,23/08/2016,0.55,32,350
+12960674,Dorm room in funky hostel NW2,57989340,Gareth,,Brent,51.54753023,-0.209220083,Shared room,14,2,10,17/09/2016,2.22,32,344
+11176920,Triple room close to NEASDEN!!!,58164869,Airton,,Brent,51.54986948,-0.25481627,Shared room,18,7,0,,,1,0
+13667101,People of the World hostel London,57989340,Gareth,,Brent,51.54766297,-0.209238407,Shared room,15,2,6,21/08/2016,1.89,32,350
+13052306,Female Dorm only in amazing hostel,57989340,Gareth,,Brent,51.54740384,-0.209882377,Shared room,17,2,3,28/08/2016,0.72,32,242
+13310765,"Great room, perfect location!!",29904662,Franciene,,Brent,51.54973656,-0.222412992,Shared room,18,3,4,09/08/2016,1.07,5,362
+13646541,Hostel dorm for anyone around the world,57989340,Gareth,,Brent,51.5455176,-0.210590667,Shared room,14,2,7,21/09/2016,2.21,32,339
+12861029,247london hostel dorm room,57989340,Gareth,,Brent,51.54564182,-0.208525533,Shared room,15,2,6,05/08/2016,1.27,32,340
+11408234,"Great Room, great Location!!",29904662,Franciene,,Brent,51.55157165,-0.221620573,Shared room,15,3,4,18/09/2016,0.69,5,262
+13664204,Hostel dorm for anyone around the world (2),57989340,Gareth,,Brent,51.54810377,-0.208151051,Shared room,14,2,5,20/08/2016,1.63,32,350
+2652436,Shared Houses with shared rooms,13577585,Dominic Smith,,Brent,51.55158495,-0.231412876,Shared room,64,1,0,,,1,365
+14701003,Japanese Hostel-Mattress on the Floor-Deluxe B21,89338716,George,,Barnet,51.61777426,-0.282397927,Shared room,14,5,0,,,27,365
+14697523,Japanese Hostel-Mattress on the Floor-Deluxe B8,89338716,George,,Barnet,51.61871276,-0.281787581,Shared room,14,5,0,,,27,365
+14698904,Japanese Hostel-Mattress on the Floor-Deluxe B5,89338716,George,,Barnet,51.6176616,-0.281246874,Shared room,14,5,0,,,27,365
+14699214,Japanese Hostel-Mattress on the Floor-Deluxe B6,89338716,George,,Barnet,51.61916301,-0.282972055,Shared room,14,5,0,,,27,365
+14699643,Japanese Hostel-Mattress on the Floor-Deluxe B9,89338716,George,,Barnet,51.6190733,-0.281261757,Shared room,14,5,0,,,27,354
+14699734,Japanese Hostel-Mattress on the Floor-Deluxe B10,89338716,George,,Barnet,51.61938639,-0.281405422,Shared room,14,5,0,,,27,365
+15000718,Smart and modern shared studio,62077161,Mendy,,Barnet,51.57372061,-0.212846628,Shared room,25,1,0,,,1,365
+3054456,A tiny clean cheap budget Room,15547520,Chad,,Barnet,51.61431574,-0.281177298,Shared room,39,2,1,07/07/2014,0.04,2,365
+14701498,Japanese Hostel-Mattress on the Floor-Deluxe B11,89338716,George,,Barnet,51.61767285,-0.282884004,Shared room,14,5,0,,,27,365
+414194,"Friendly, quiet and secure room",2060493,Phil,,Barnet,51.62645272,-0.137878612,Shared room,40,1,0,,,1,365
+14559717,Japanese Hostel - Mattress on the Floor -Deluxe B3,89338716,George,,Barnet,51.6122991,-0.280105402,Shared room,14,5,0,,,27,339
+14700038,Japanese Hostel-Mattress on the Floor-Deluxe B15,89338716,George,,Barnet,51.61826143,-0.283112777,Shared room,14,5,0,,,27,365
+14536249,Japanese Hostel - Mattress on the Floor - Deluxe B,89338716,George,,Barnet,51.61254386,-0.278444629,Shared room,14,5,0,,,27,365
+14485077,Cheap Japanese-Style Hostel.Mattress on the Floor,89338716,George,,Barnet,51.61227354,-0.280019803,Shared room,14,5,1,19/08/2016,0.65,27,338
+14480906,Japanese Hostel - Mattress on the Floor - Deluxe,15547520,Chad,,Barnet,51.61302654,-0.279619682,Shared room,14,4,1,05/09/2016,1,2,302
+5558861,伦敦市郊别墅，超大主卧，独立卫浴，近地铁，厨具家电俱全，带花园可停车,28818613,贾,,Barnet,51.63373623,-0.181534897,Shared room,70,1,0,,,1,365
+11841280,Shared Self Contained Studio flat,12007526,Debora,,Barnet,51.57692593,-0.205854878,Shared room,80,3,0,,,1,0
+10652247,Nice comfy bed near East Barnet Village,6767832,Tom,,Barnet,51.6433957,-0.168327838,Shared room,20,1,1,10/08/2016,0.55,1,86
+689740,Join our family in North London,3523555,Sarah,,Barnet,51.61957066,-0.140581803,Shared room,26,1,14,08/10/2015,0.29,2,364
+14696181,Japanese Hostel-Mattress on the Floor-Deluxe B4,89338716,George,,Barnet,51.61867661,-0.281146756,Shared room,14,5,1,20/09/2016,1,27,334
+7221425,Stunning 1BD with Pool and Balcony,33758436,Zaynah,,Barnet,51.57413809,-0.236165686,Shared room,56,1,0,,,1,365
+14559130,Japanese Hostel - Mattress on the Floor -Deluxe B2,89338716,George,,Barnet,51.61360594,-0.278455849,Shared room,14,5,0,,,27,364
+14818442,Cozy bedroom in lovely flat,92628649,Nina,,Barnet,51.60142605,-0.181131349,Shared room,25,1,0,,,1,359
+14945294,Lovely double room at quiet safe Hendon,94036338,Yan,,Barnet,51.58788234,-0.223862613,Shared room,25,1,1,17/09/2016,1,1,185
+14703934,Japanese Hostel-Mattress on the Floor-Deluxe B26,89338716,George,,Barnet,51.61931136,-0.281439901,Shared room,14,5,0,,,27,365
+942533,Share Home Space,4835804,Nick,,Barnet,51.60352988,-0.259882254,Shared room,30,1,0,,,1,365
+14701410,Japanese Hostel-Mattress on the Floor-Deluxe B25,89338716,George,,Barnet,51.61916938,-0.281093388,Shared room,14,5,0,,,27,365
+14700359,Japanese Hostel-Mattress on the Floor-Deluxe B18,89338716,George,,Barnet,51.61805399,-0.282375101,Shared room,14,5,0,,,27,365
+14700323,Japanese Hostel -Mattress on the Floor -Deluxe B12,89338716,George,,Barnet,51.61937899,-0.282019343,Shared room,14,5,0,,,27,365
+14699937,Japanese Hostel-Mattress on the Floor-Deluxe B14,89338716,George,,Barnet,51.61767843,-0.281738358,Shared room,14,5,0,,,27,365
+14699815,Japanese Hostel-Mattress on the Floor-Deluxe B13,89338716,George,,Barnet,51.61956708,-0.281709208,Shared room,14,5,0,,,27,365
+14700787,Japanese Hostel-Mattress on the Floor-Deluxe B19,89338716,George,,Barnet,51.61792686,-0.281468922,Shared room,14,5,0,,,27,365
+14701282,Japanese Hostel-Mattress on the Floor-Deluxe B24,89338716,George,,Barnet,51.61948308,-0.282529545,Shared room,14,5,1,23/09/2016,1,27,365
+14701119,Japanese Hostel-Mattress on the Floor-Deluxe B22,89338716,George,,Barnet,51.6195605,-0.281146089,Shared room,14,5,0,,,27,358
+14700876,Japanese Hostel-Mattress on the Floor-Deluxe B20,89338716,George,,Barnet,51.61892438,-0.28210829,Shared room,14,2,0,,,27,363
+14700213,Japanese Hostel-Mattress on the Floor-Deluxe B17,89338716,George,,Barnet,51.61896751,-0.282048206,Shared room,14,5,0,,,27,365
+14700136,Japanese Hostel-Mattress on the Floor-Deluxe B16,89338716,George,,Barnet,51.61917734,-0.281466938,Shared room,14,5,0,,,27,365
+14701219,Japanese Hostel-Mattress on the Floor-Deluxe B23,89338716,George,,Barnet,51.61806322,-0.282917141,Shared room,14,5,0,,,27,365
+14699562,Japanese Hostel-Mattress on the Floor-Deluxe B7,89338716,George,,Barnet,51.61772546,-0.282639323,Shared room,14,5,0,,,27,365
+13985538,Lovely shared room,21324137,Claudio,,Enfield,51.64227097,-0.125112634,Shared room,15,1,0,,,1,0
+14269627,Relax Home,45240296,Nikesh,,Enfield,51.62472123,-0.105029261,Shared room,40,1,1,08/08/2016,0.53,1,275
+6772803,double and twin room,35451111,Gee,,Enfield,51.63304706,-0.052386934,Shared room,29,2,0,,,1,0
+6743570,Oakwood flat,35310193,Amy,,Enfield,51.64434848,-0.13338067,Shared room,25,1,1,25/06/2015,0.06,1,0
+11543562,A place to rest,60903780,Ritu,,Enfield,51.61741132,-0.062483823,Shared room,18,1,20,17/09/2016,2.88,2,98
+13482015,PRIVATE ROOM FOR 1 /2 PERSON IN LEYTON,61714911,Asim,,Waltham Forest,51.56146292,-0.003461154,Shared room,23,2,2,24/09/2016,0.67,25,365
+14001890,COMFORTABLE DOUBLE BED SHARED ROOM.LEYTON E10 5RQ,61714911,Asim,,Waltham Forest,51.55929706,-0.003897574,Shared room,25,1,0,,,25,365
+1800127,Twin Room flatshare 25min Centre 3b,6435755,Justina,,Waltham Forest,51.58775005,-0.023135075,Shared room,15,7,5,14/09/2015,0.16,9,365
+12215275,FRIENDLY ROOM SHARED OR SINGLE PERSON FOR EXTRA £,61714911,Asim,,Waltham Forest,51.55995861,-0.004958116,Shared room,17,3,4,17/09/2016,0.75,25,358
+14002094,CHEAP FRIENDLY HOME AWAY FROM HOME,61714911,Asim,,Waltham Forest,51.55923604,-0.005661432,Shared room,15,2,0,,,25,365
+12702620,Ideal stopover in quiet Walthamstow,68795214,George,,Waltham Forest,51.57740121,-0.029427221,Shared room,28,1,0,,,2,365
+12158620,"ROOMSHARE,FRIENDLY,CLOSE TO STRATFO",61714911,Asim,,Waltham Forest,51.56069096,-0.00344841,Shared room,16,4,4,03/08/2016,0.94,25,365
+1794787,Twin Room flatshare 25min Centre 1a,6435755,Justina,,Waltham Forest,51.5868085,-0.023353097,Shared room,15,7,7,28/08/2016,0.23,9,365
+10896156,Beautifully furnished double room.,56466188,Guluzar,,Waltham Forest,51.60630318,-0.004958719,Shared room,40,1,0,,,1,365
+14737115,"friendly fun house,meet new people,make friend",61714911,Asim,,Waltham Forest,51.5599276,-0.003325437,Shared room,13,5,0,,,25,365
+13543891,"HOMESTAY AWAY FROM HOME, IN LEYTON E10 5RQ CHECK",61714911,Asim,,Waltham Forest,51.55947417,-0.00321256,Shared room,14,2,2,07/08/2016,0.63,25,365
+1800224,Twin Room flatshare 25min Centre 1b,6435755,Justina,,Waltham Forest,51.58652659,-0.021878546,Shared room,15,7,7,22/08/2016,0.19,9,365
+12519052,"cheap friendly couch,ideal for travlers",61714911,Asim,,Waltham Forest,51.55996295,-0.003045975,Shared room,15,2,8,10/08/2016,1.69,25,85
+12138872,"HOMESTAY,NEXT TO STRATFORD.LEYTON",61714911,Asim,,Waltham Forest,51.5612397,-0.004320509,Shared room,24,2,2,14/06/2016,0.41,25,365
+14410067,Comfy Sofa Bed in lovely Garden flat,7130349,Rach,,Waltham Forest,51.57912852,-0.035972825,Shared room,18,1,2,20/09/2016,1.43,2,234
+14258505,"SINGLE BED IN SHARED ROOM,FRIENDLY SHARED HOUSE",61714911,Asim,,Waltham Forest,51.55992228,-0.005320568,Shared room,16,2,0,,,25,365
+13227660,FRIENDLY HOUSE AWAY FROM HOUSE for a couple as wel,61714911,Asim,,Waltham Forest,51.55937112,-0.002998697,Shared room,14,2,2,25/07/2016,0.77,25,365
+15162915,Sofa surf with family,96208035,Maria-Christina,,Waltham Forest,51.64408657,-0.009820989,Shared room,25,1,0,,,1,365
+15293488,Huge bedroom with 3 beds in Leyton. 201PEA,96937725,Isabel,,Waltham Forest,51.56168787,-0.001269044,Shared room,23,1,0,,,6,364
+15292270,"Nice twin room, 2 single beds, East London.202POP",96937725,Isabel,,Waltham Forest,51.57332967,0.009185291,Shared room,20,1,0,,,6,364
+13360027,CHEAP COUCH CLOSE TO CENTRAL LONDON,61714911,Asim,,Waltham Forest,51.55993985,-0.003228971,Shared room,14,2,3,21/07/2016,0.76,25,365
+14001606,COUCH CLOSE TO CENTRAL LONDON,61714911,Asim,,Waltham Forest,51.5597946,-0.005466822,Shared room,14,5,1,01/09/2016,0.91,25,365
+14656325,"FRIENDLY SHARED HOUSE IN LEYTON,CLOSE TO CENTER",61714911,Asim,,Waltham Forest,51.55966356,-0.003448276,Shared room,14,4,0,,,25,365
+4289121,Lovely Twin Room b 25 min centre,6435755,Justina,,Waltham Forest,51.5670821,-0.013902452,Shared room,15,1,0,,,9,365
+6890295,Double room in Walthamstow Village,36107514,Peter,,Waltham Forest,51.58416449,-0.01002918,Shared room,125,1,0,,,1,365
+15245054,Modern twin room in shared Victorian house.205POP,96937725,Isabel,,Waltham Forest,51.57540842,0.008534297,Shared room,20,1,0,,,6,361
+1872471,Luxurious loft room in Walthamstow,9757216,Arlene,,Waltham Forest,51.59950236,-0.004706085,Shared room,76,3,0,,,1,360
+12094854,couch or sharedroom close to center,61714911,Asim,,Waltham Forest,51.55987142,-0.004075129,Shared room,16,2,4,16/05/2016,0.77,25,365
+12142469,SHAREDROOM CLOSE TO STRATFORD,61714911,Asim,,Waltham Forest,51.56150936,-0.003843485,Shared room,15,2,4,17/07/2016,0.71,25,365
+12394971,"CHEAP COUCH FOR BUDGET TRAVLER,E10",61714911,Asim,,Waltham Forest,51.55975767,-0.003148673,Shared room,14,2,9,19/07/2016,1.6,25,365
+7015495,Comfy sofa-bed in cosy flat EastLDN,9724671,Marina,,Waltham Forest,51.58087211,-0.020024236,Shared room,25,1,1,03/01/2016,0.11,1,363
+14957072,London 20 min from StPaul Cathedral,84130625,Peter,,Waltham Forest,51.55520968,-0.006731144,Shared room,18,1,0,,,2,364
+14040669,"London, room for share! Very close to downtown!",84130625,Peter,,Waltham Forest,51.55343889,-0.006570026,Shared room,19,2,1,22/09/2016,1,2,363
+15293188,"Big Victorian house, 6 bedrooms, 9 beds.POP",96937725,Isabel,,Waltham Forest,51.57453279,0.008847944,Shared room,25,1,0,,,6,364
+14703148,cheap COMFORTABLE SOFABED IN LEYTON,61714911,Asim,,Waltham Forest,51.56054318,-0.005420601,Shared room,14,2,2,02/10/2016,1.5,25,365
+1842047,20min Central London Twin Room 2b,6435755,Justina,,Waltham Forest,51.57891969,-0.01995027,Shared room,15,7,4,31/03/2016,0.14,9,365
+12589026,Room in East London studio,34889587,Sonia,,Waltham Forest,51.56905611,0.005510687,Shared room,25,1,0,,,2,0
+9830821,Very large sofa in open plan room,50630932,Stephen Anthony,,Waltham Forest,51.55313084,-0.007052076,Shared room,25,1,1,31/07/2016,0.46,1,365
+14287738,"Compact, cozy, homely one bed flat",7381217,Rozy,,Waltham Forest,51.58651627,-0.004725794,Shared room,30,1,0,,,1,332
+15105701,Single bed in a friendly triple room share,48927291,Jade,,Waltham Forest,51.57185055,-0.007449935,Shared room,11,14,0,,,2,301
+12209559,cheap comfortable couch in leyton,61714911,Asim,,Waltham Forest,51.559438,-0.003294439,Shared room,16,2,2,10/06/2016,0.35,25,365
+12209505,"cheap couch, leyton station,E10 5RQ",61714911,Asim,,Waltham Forest,51.55967362,-0.005062499,Shared room,13,1,6,30/08/2016,1.11,25,364
+12209601,cheap comfortable couch in leyton E10 5RQ,61714911,Asim,,Waltham Forest,51.55936726,-0.005183039,Shared room,13,2,13,18/09/2016,2.31,25,365
+11387983,My home is a home away from home.,59733716,Eileen,,Redbridge,51.57984446,0.052397148,Shared room,6505,3,0,,,1,362
+2367228,"A Spacious Room Sofabed/Bed,S/FWiFi",11648580,Farida,,Redbridge,51.57614517,0.050587727,Shared room,17,1,57,20/08/2016,1.84,3,365
+13728309,Sofa-bed near Wanstead,47905104,Shanell,,Redbridge,51.5647403,0.027454275,Shared room,15,1,0,,,4,89
+7930974,1 room in a Shared House,21798932,Sherwin,,Redbridge,51.55908903,0.079427868,Shared room,15,1,5,15/09/2016,1.1,1,351
+10916880,CRASHPAD+ Parking Double Airbed,44317480,Julian,,Redbridge,51.554199,0.091915389,Shared room,18,1,3,26/02/2016,0.36,4,211
+9975003,2 SINGLE ROOMS3 MINUTE FROM STATION,51129687,Raahul,,Redbridge,51.59263784,0.085084358,Shared room,40,1,1,21/04/2016,0.18,4,365
+12399091,Sofa bed in a sunny (shared) flat.,26560032,Renata,,Sutton,51.36326281,-0.185900557,Shared room,35,1,1,27/04/2016,0.19,2,0
+14340595,COMFY FLOOR MATTRESS IN LOUNGE WITH FREE PARKING,28187130,Karry,,Sutton,51.38773052,-0.130390157,Shared room,21,3,0,,,4,359
+13115249,Comfy Doubl Foldable Floor Mattress In Living Room,28187130,Karry,,Sutton,51.38781257,-0.131357234,Shared room,20,1,16,05/08/2016,3.75,4,354
+9575939,Stunning twin rooms in London,49571004,Tripura,,Sutton,51.37634012,-0.19236143,Shared room,20,1,2,20/07/2016,0.31,1,365
+15037827,Sofa close to central London - TV and Wi-Fi inc.,67324481,Isabel,,Lambeth,51.4591732,-0.116369647,Shared room,17,1,1,16/09/2016,1,2,336
+11791134,Apartment in vibrant Brixton!!!,62679451,Ogheneochuko,,Lambeth,51.46010253,-0.109027004,Shared room,25,1,3,22/08/2016,0.51,1,50
+13025397,SHARED ROOMS IN STOCKWELL,21241056,Maria,,Lambeth,51.48133985,-0.114620735,Shared room,78,1,10,17/09/2016,2.36,11,363
+6765139,Spacious studio flat in Streatham!!,35410538,Aviva,,Lambeth,51.42796421,-0.128143677,Shared room,60,14,0,,,1,0
+5327719,Living room Zone 2 - Oval ,27605653,Kwame,,Lambeth,51.47800741,-0.121180251,Shared room,22,1,8,13/08/2015,0.41,1,90
+13517583,Double bedroom 10 min  Victoria,4420886,Charlotte,,Lambeth,51.44363432,-0.106253885,Shared room,80,1,0,,,1,61
+12090201,Twin room with views of the shard,64804583,Shivani,,Lambeth,51.49921329,-0.117082273,Shared room,72,14,1,30/07/2016,0.45,1,365
+9347503,15 bed dorm...Central London Zone 1....NOW WITH AC,47046390,Richard,,Lambeth,51.49577829,-0.112088007,Shared room,17,1,40,11/09/2016,3.7,10,347
+9116140,15 bed dorm...Central London Zone 1 NOW WITH AC...,47046390,Richard,,Lambeth,51.49652377,-0.113673706,Shared room,16,1,60,27/09/2016,5.47,10,333
+12112303,Sofa bed in Herne Hill near Brixton,10903381,Jan,,Lambeth,51.45268533,-0.105072882,Shared room,25,1,0,,,1,89
+9280636,6 bed FEMALE ONLY DORM. ZONE 1.....,47046390,Richard,,Lambeth,51.49602373,-0.111529239,Shared room,23,1,13,24/09/2016,1.29,10,342
+15185581,Nice bed in a gay friendly room :),77754116,Prince,,Lambeth,51.47833383,-0.129912653,Shared room,30,1,0,,,1,364
+7173036,1 large Room for hire south london,37571471,Louis,,Lambeth,51.46820552,-0.100817482,Shared room,23,2,1,04/08/2015,0.07,1,0
+13973607,"vauxhall zone 1, bright, clean and nice",50771309,Jose,,Lambeth,51.48924726,-0.117629251,Shared room,15,1,1,01/09/2016,0.91,1,364
+6766422,Sharing room in Stockwell,21241056,Maria,,Lambeth,51.4715775,-0.126561895,Shared room,45,1,25,06/03/2016,1.59,11,354
+12271821,12 bed dorm.........Zone 1 location,47046390,Richard,,Lambeth,51.49337216,-0.115330535,Shared room,17,1,12,24/09/2016,2.54,10,334
+14548815,Single Matress in Open Living Room,17951730,Diana,,Lambeth,51.47090587,-0.141087329,Shared room,18,1,6,25/09/2016,4.62,2,75
+13499733,3 BED FEMALE ONLY DORM,47046390,Richard,,Lambeth,51.49363638,-0.113796771,Shared room,25,1,4,25/09/2016,1.82,10,364
+4703548,Double size mattress in living room,10585918,Mario,,Lambeth,51.46716202,-0.129044509,Shared room,28,1,26,20/09/2016,1.8,1,301
+11639604,12 Bed Dorm...Central London Zone 1,47046390,Richard,,Lambeth,51.49521324,-0.114071901,Shared room,17,1,18,24/09/2016,3.12,10,353
+9103246,6 bed FEMALE ONLY DORM. ZONE 1.....,47046390,Richard,,Lambeth,51.49488129,-0.114407068,Shared room,23,1,15,30/09/2016,1.54,10,362
+10010607,15 bed dorm...Central London Zone 1....NOW WITH AC,47046390,Richard,,Lambeth,51.49496321,-0.112893613,Shared room,17,1,29,26/09/2016,3.01,10,349
+9347518,12 bed dorm...Central London Zone 1,47046390,Richard,,Lambeth,51.4965832,-0.113888924,Shared room,17,1,41,24/09/2016,3.83,10,334
+13012292,Very central & light double bedroom in Vauxhall,71796746,Victoria,,Lambeth,51.48021384,-0.117519104,Shared room,75,2,1,17/07/2016,0.38,1,83
+9864040,Single bed for Female in Double RM,32067123,書瑋,,Lambeth,51.46287686,-0.114742522,Shared room,22,1,1,30/12/2015,0.11,1,0
+5666390,Modern apartment in Streatham,25023282,Daniel,,Lambeth,51.42476935,-0.131585792,Shared room,32,1,2,01/05/2016,0.12,1,365
+8895875,Brixton Bed in beautiful apartment,14069437,Barry,,Lambeth,51.46428653,-0.10887146,Shared room,36,1,19,25/08/2016,1.88,1,80
+5461908,Roomshare with girl hardly home,28330585,Melanie,,Southwark,51.50522349,-0.035645162,Shared room,15,1,0,,,1,0
+11634511,Amazing Single & Double Bedroom,61659785,Adelodun,,Southwark,51.49198783,-0.042428682,Shared room,40,1,0,,,1,365
+14123217,1 bed in shared mixed 4 bedded dormitory,50967269,Sam,,Southwark,51.49467794,-0.091364709,Shared room,16,1,8,30/09/2016,5.45,22,335
+14262701,1 bed in shared mixed 4 bedded dormitory,50967269,Sam,,Southwark,51.49265974,-0.089561642,Shared room,18,1,4,04/09/2016,2.45,22,320
+4795386,Cosy Room Big Ben + Breakfast,18348359,Mirian & Luis,,Southwark,51.49185851,-0.097185267,Shared room,21,1,42,24/09/2016,1.97,15,105
+14754721,1 bed in 4 bed mixed dorm,50967269,Sam,,Southwark,51.49481943,-0.091232253,Shared room,16,1,3,25/09/2016,3,22,360
+9524428,BLACKHORSE BAR ( Room 3 ),12023577,Wayne,,Southwark,51.49620371,-0.087764509,Shared room,30,1,1,19/02/2016,0.13,7,365
+10196949,Cheap Room Big Ben + Breakfast. (a),18348359,Mirian & Luis,,Southwark,51.49128957,-0.095188827,Shared room,24,1,34,29/09/2016,4.42,15,104
+11814723,Airbed - central location in zone 1,27663169,Gemma,,Southwark,51.50480073,-0.099727881,Shared room,30,1,1,05/07/2016,0.33,3,274
+14473445,Wisma Berkah,89213853,Firdaus,,Southwark,51.49763848,-0.067069473,Shared room,15,1,5,08/09/2016,3,3,359
+2226066,Charming artistic flat near central,8559181,Weiman,,Southwark,51.49742111,-0.052044727,Shared room,46,20,0,,,1,89
+13164245,"Bright room, Kennington + spacious sofa",73524220,Marie-Line,,Southwark,51.48509861,-0.104201073,Shared room,19,2,3,17/08/2016,1.17,1,10
+1389668,Affordable Dorm-style room - 1,5933569,Kay,,Southwark,51.48320549,-0.095405496,Shared room,20,3,24,23/08/2016,0.62,6,365
+3155142,COUCH - SURFING BED & BREAKFAST,6724701,Gemma,,Southwark,51.47557916,-0.068242454,Shared room,45,1,1,12/09/2014,0.04,7,365
+13982798,Comfy Room 3_1,82640160,June,,Southwark,51.50170046,-0.080041934,Shared room,27,1,6,02/09/2016,2.37,8,343
+14239136,Comfy Room 3_3,82640160,June,,Southwark,51.50345675,-0.079709687,Shared room,27,1,2,16/08/2016,1.05,8,360
+4984461,Nice Room Big Ben with Breakfast,18348359,Mirian & Luis,,Southwark,51.49156516,-0.096355523,Shared room,24,1,57,16/09/2016,2.8,15,113
+14966410,1 bed in 8 bed shared dorm,50967269,Sam,,Southwark,51.49346549,-0.08848433,Shared room,14,1,2,18/09/2016,2,22,353
+2472934,THE BLACKHORSE BAR & HOSTEL 2,12023577,Wayne,,Southwark,51.50104001,-0.09225285,Shared room,25,1,109,13/09/2016,3.52,7,363
+11549978,6's Home,60406782,Hengmin,,Southwark,51.49322673,-0.092938627,Shared room,66,1,0,,,1,365
+3335568,THE BLACKHORSE BAR & HOSTEL 4,12023577,Wayne,,Southwark,51.49676886,-0.086948411,Shared room,25,1,15,20/03/2016,0.98,7,365
+4392688,Twinroom ,22812374,Sandra,,Southwark,51.45424953,-0.068496622,Shared room,69,1,0,,,1,365
+14472606,Wisma Berkah,89213853,Firdaus,,Southwark,51.49854712,-0.0660025,Shared room,20,1,0,,,3,364
+14327801,Little corner in Surrey Quays,62546864,Dieu Linh,,Southwark,51.49296139,-0.03876239,Shared room,22,2,0,,,1,295
+61692,nice and calm area,299008,Candy,,Southwark,51.4888068,-0.065494447,Shared room,88,1,0,,,1,365
+12563372,Sofabed Available in Bermondsey!,43514954,Clarke,,Southwark,51.49762223,-0.06527159,Shared room,38,1,6,08/08/2016,1.09,1,165
+4700964,Room Big Ben + Breakfast,18348359,Mirian & Luis,,Southwark,51.49213115,-0.097219783,Shared room,22,1,42,11/09/2016,2.11,15,84
+4683048,Cosy room Big Ben + Breakfast,18348359,Mirian & Luis,,Southwark,51.4906744,-0.096656371,Shared room,23,1,17,24/09/2016,0.86,15,117
+14363033,1 bed in shared mixed 4 bedded dormitory,50967269,Sam,,Southwark,51.49362222,-0.089917229,Shared room,18,1,6,28/09/2016,3.33,22,354
+10190868,Nice Flat in London,52340914,Liza,,Southwark,51.5057374,-0.10392257,Shared room,150,1,0,,,1,365
+3637742,Big Ben Room + Breakfast. Near to the Tube,18348359,Mirian & Luis,,Southwark,51.49085691,-0.095681832,Shared room,24,1,26,23/09/2016,1.21,15,148
+3638620,Cosy Room Big Ben + Breakfast.,18348359,Mirian & Luis,,Southwark,51.49213475,-0.097151547,Shared room,24,1,45,22/09/2016,2.02,15,75
+2354497,THE BLACKHORSE BAR AND HOSTEL,12023577,Wayne,,Southwark,51.50109073,-0.091823126,Shared room,25,1,119,19/08/2016,3.81,7,365
+14041825,Sweety Room For women 2_2,82640160,June,,Southwark,51.50150461,-0.078244309,Shared room,27,1,7,27/09/2016,4.12,8,364
+6521410,COSY PLACE IN CITY CENTER,34105211,Dem,,Southwark,51.47475783,-0.092385653,Shared room,24,2,54,19/08/2016,3.37,4,359
+2355323,Spacious Room Offered,12027402,Robert,,Southwark,51.48109992,-0.100495367,Shared room,17,2,70,11/09/2016,2.27,3,318
+8907491,Warung Padang Restaurant & Hostel,41521009,Aak,,Southwark,51.49956925,-0.066039508,Shared room,18,1,19,31/08/2016,1.69,8,365
+9522801,BLACKHORSE BAR ( Room 1 ),12023577,Wayne,,Southwark,51.49751243,-0.087190262,Shared room,30,1,1,07/01/2016,0.11,7,365
+12045741,Two stylish double rooms riverside,47501614,Baran,,Southwark,51.50730263,-0.092709112,Shared room,100,1,0,,,1,326
+9212703,1 Bed flat near London Bridge,47910765,Kris,,Southwark,51.49417681,-0.077035501,Shared room,152,1,0,,,1,0
+4694873,Room Big Ben + Breakfast. Zone 1,18348359,Mirian & Luis,,Southwark,51.49241991,-0.097724227,Shared room,21,1,52,13/09/2016,2.64,15,110
+13802109,Single bed in a shared studio flat,69819060,Sid,,Southwark,51.49302818,-0.045529136,Shared room,25,1,7,11/09/2016,2.56,9,278
+6526269,LOVELY  ROOM IN CENTER,34105211,Dem,,Southwark,51.47449725,-0.093997591,Shared room,24,2,56,01/10/2016,3.75,4,360
+8749461,COSY ROOM IN CITY CENTER,34105211,Dem,,Southwark,51.4751749,-0.092255066,Shared room,24,2,20,16/04/2016,1.78,4,336
+14776481,Surrey Quays Air bed available,43276902,Nelson,,Southwark,51.48958292,-0.052279103,Shared room,35,1,0,,,1,364
+13887321,Double Bedroom in Cosy Flat,1680347,Eki,,Southwark,51.48475876,-0.092661941,Shared room,35,1,4,18/09/2016,1.4,1,265
+13460283,Single bed in Studio flat to share,76911791,Seema,,Southwark,51.50037702,-0.040463195,Shared room,20,2,2,23/09/2016,0.83,7,279
+14520621,Wisma berkah,89213853,Firdaus,,Southwark,51.49980798,-0.066452959,Shared room,13,1,1,30/08/2016,0.86,3,352
+7299607,Room Big Ben + Breakfast,18348359,Mirian & Luis,,Southwark,51.49225181,-0.097039006,Shared room,21,1,22,15/09/2016,1.52,15,148
+5177529,Cosy Room Big Ben with Breakfast,18348359,Mirian & Luis,,Southwark,51.49159073,-0.097530926,Shared room,22,1,46,06/09/2016,2.29,15,135
+14350762,Safestay Elephant & Castle,83912266,Safestay,,Southwark,51.49205357,-0.096903307,Shared room,18,1,6,26/09/2016,4.09,2,317
+13963833,Sweety Room For women 2_1,82640160,June,,Southwark,51.50272129,-0.078594644,Shared room,27,1,14,28/09/2016,5.25,8,350
+8660766,Sofa Bed in Elephant and Castle,45503349,Rhiannon,,Southwark,51.49714606,-0.099039993,Shared room,25,1,30,11/09/2016,3.98,1,7
+4124738,L-shaped sofa south of Tower Bridge,21394518,Marie,,Southwark,51.49201526,-0.085281488,Shared room,25,1,96,23/09/2016,3.97,1,312
+2544697,THE BLACKHORSE BAR AND HOSTEL 3,12023577,Wayne,,Southwark,51.49769842,-0.089011009,Shared room,25,1,92,27/07/2016,3.08,7,359
+310977,Stunning apartment in tower bridge,1599357,Alicia,,Southwark,51.49974483,-0.07915283,Shared room,35,1,208,17/09/2016,3.73,1,112
+13941965,Lovely Room for women 1_1,82640160,June,,Southwark,51.50208842,-0.079680676,Shared room,27,1,11,02/10/2016,3.88,8,352
+10262646,Comfy Couch in a clean&modern flat,52325284,Alaa,,Southwark,51.46719289,-0.052059951,Shared room,25,1,5,17/02/2016,0.55,2,364
+14191391,161a Brook Drive,17222090,Nithin,,Southwark,51.49311012,-0.104562806,Shared room,50,2,0,,,1,87
+9079693,Warung Padang Restaurant & Hostel,41521009,Aak,,Southwark,51.49810748,-0.067094479,Shared room,19,1,9,12/07/2016,1.16,8,365
+9523802,BLACKHORSE BAR ( Room 2 ),12023577,Wayne,,Southwark,51.49706049,-0.087168602,Shared room,30,1,2,12/07/2016,0.38,7,365
+13707153,"Fantastic,Cosy,light bedroom",69798391,Airat,,Southwark,51.48105017,-0.098022303,Shared room,45,1,1,17/07/2016,0.38,1,365
+14754531,1 bed in 4 bedded room,50967269,Sam,,Southwark,51.49279646,-0.090258707,Shared room,16,1,4,18/09/2016,4,22,358
+14755235,1 bed in 4 bed mixed dorm,50967269,Sam,,Southwark,51.49307817,-0.091564828,Shared room,16,1,2,08/09/2016,2,22,345
+14755173,1 bed in 4 bed mixed dorm,50967269,Sam,,Southwark,51.49458329,-0.090841367,Shared room,16,1,1,17/09/2016,1,22,339
+8852078,Warung Padang Restaurant & Hostel,41521009,Aak,,Southwark,51.50009267,-0.067704491,Shared room,18,1,16,18/09/2016,1.34,8,365
+7180049,London Bridge : Good for travellers,36542731,Jui,,Southwark,51.49523732,-0.084622144,Shared room,55,1,0,,,1,365
+7877082,Warung Padang Restaurant & Hostel,41521009,Aak,,Southwark,51.50006834,-0.064440394,Shared room,18,1,19,02/09/2016,1.73,8,365
+9318249,Warung Padang London & Hostel,41521009,Aak,,Southwark,51.49823123,-0.065882706,Shared room,18,1,15,14/07/2016,1.41,8,365
+14834111,1 bed in 4 bed shared dorm,50967269,Sam,,Southwark,51.49278132,-0.091001862,Shared room,22,1,0,,,22,334
+7864842,Spacious and children friendly flat,41449795,Joao,,Southwark,51.48962725,-0.054625486,Shared room,40,1,0,,,1,306
+1313399,Spacious Maisonette Southwark,979481,Bukola,,Southwark,51.44649848,-0.067181928,Shared room,30,2,0,,,1,365
+9044002,Warung Padang Restaurant & Hostel,41521009,Aak,,Southwark,51.49966521,-0.067337853,Shared room,19,1,11,26/07/2016,0.96,8,361
+12746224,Double bed in modern sharing flat,24674176,Caroline,,Southwark,51.4778462,-0.062016352,Shared room,30,3,4,18/09/2016,0.76,1,183
+5006027,Great Room Big Ben + Breakfast,18348359,Mirian & Luis,,Southwark,51.49213635,-0.096077399,Shared room,21,1,9,03/09/2016,0.46,15,355
+14444599,Lovely Room for women 1_3,82640160,June,,Southwark,51.50223902,-0.080442894,Shared room,27,1,1,17/08/2016,0.63,8,365
+7889028,Warung Padang Restaurant & Hostel,41521009,Aak,,Southwark,51.49775069,-0.067514306,Shared room,25,1,16,13/08/2016,1.26,8,365
+7101719,COSY ROOM IN THE CITY CENTER,34105211,Dem,,Southwark,51.4751135,-0.092740679,Shared room,24,2,43,24/08/2016,3.09,4,363
+14966450,1 bed in 8 bed shared dorm,50967269,Sam,,Southwark,51.49441922,-0.089859019,Shared room,14,1,3,26/09/2016,3,22,333
+11294537,Perfect room for the city explorer!,6433131,Kasper,,Southwark,51.48366972,-0.105697918,Shared room,17,1,0,,,1,0
+14042272,Comfy Room 3_2,82640160,June,,Southwark,51.50294147,-0.079680949,Shared room,27,1,7,26/09/2016,3.18,8,359
+7299233,Cheap Room Big Ben+ Breakfast.Tube,18348359,Mirian & Luis,,Southwark,51.49198757,-0.097631613,Shared room,21,1,34,06/09/2016,2.3,15,120
+14041437,Lovely Room for women 1_2,82640160,June,,Southwark,51.50282524,-0.080245183,Shared room,27,1,2,25/09/2016,0.82,8,365
+9006495,Warm House,47032206,Estelle,,Lewisham,51.47122194,-0.035037627,Shared room,50,1,1,26/10/2015,0.09,1,365
+14526699,Airbed in modern shared house,47520987,Ste,,Lewisham,51.4469913,-0.05544028,Shared room,28,1,0,,,1,362
+10923689,Hhhhj,30127470,Samuel,,Lewisham,51.4437687,-0.000197512,Shared room,51,1,0,,,1,365
+12941993,Cosy sofa bed 20mins to central ldn,8705405,Daniel,,Lewisham,51.45066631,-0.01623463,Shared room,19,2,12,21/09/2016,2.67,2,333
+10153538,Pianist's Loft - 10minsLondonBridge,20678468,Ellie,,Lewisham,51.4678179,-0.025253186,Shared room,25,1,11,22/05/2016,1.24,1,64
+13518860,"1bedflat with living, kitchen,garden,shed",77649886,Saleem,,Lewisham,51.45214261,-0.000544687,Shared room,30,1,0,,,1,364
+15300533,Shared 4bed dorm Wifi+Breakfast+5min to station,21696761,Peter Dan Alba,,Lewisham,51.47681368,-0.036323738,Shared room,15,2,0,,,6,357
+14998819,20 minutes to Waterloo (Shared living room Zone2),94590407,Kichirou,,Lewisham,51.46637647,-0.022806953,Shared room,16,1,1,23/09/2016,1,3,365
+4954281,Cozy flat! 11 min to London Bridge,3668018,Selim,,Lewisham,51.44162483,-0.030457873,Shared room,39,1,0,,,1,275
+5591735,Bright bedroom near Cutty Sark Greenwich,2060377,Bruno,,Lewisham,51.48453533,-0.033093019,Shared room,28,1,56,22/09/2016,3.11,2,347
+15066546,Bushido Honor in Zone 2 if you love beauty,94590407,Kichirou,,Lewisham,51.46595369,-0.023039469,Shared room,12,1,0,,,3,302
+902463,Dorms 5min to Goldsmiths Univ & New Cross Station,21696761,Peter Dan Alba,,Lewisham,51.47610615,-0.036914629,Shared room,13,2,0,,,6,362
+1554492,Spacious studio in London,8276861,Jeanette,,Lewisham,51.4503716,-0.034617178,Shared room,73,1,0,,,1,365
+500861,Super Zone2 Location Charming House,2471235,Michelle,,Lewisham,51.47156049,-0.042192734,Shared room,35,2,21,01/08/2016,0.41,1,357
+15300188,"4bed FEMALE dorm Ensuite bathroom, Wifi+Breakfast",21696761,Peter Dan Alba,,Lewisham,51.47630605,-0.037410465,Shared room,16,2,0,,,6,364
+15003477,20 minutes to Waterloo (Shared fun in Zone 2),92189721,Wing Yin,,Lewisham,51.46680603,-0.022975323,Shared room,15,1,0,,,4,359
+14336526,Lovely  room  sleeps up to 4 people,41150472,Yvonne,,Lewisham,51.46519464,-0.041019241,Shared room,41,1,1,11/09/2016,1,2,359
+14861570,Beautiful sleep if you love beauty!,92189721,Wing Yin,,Lewisham,51.4678729,-0.024264116,Shared room,12,1,1,21/09/2016,1,4,365
+14357229,"Nice and Clean Single Room in Grove Park, London",88014329,Damion,,Lewisham,51.43182727,0.032065724,Shared room,32,1,1,01/09/2016,0.91,1,306
+792102,Shared dormitories WIFI+BREAKFAST+5min to station,21696761,Peter Dan Alba,,Lewisham,51.47683008,-0.037984118,Shared room,14,4,0,,,6,343
+9502793,Venture Hostel,49248753,Ade,,Lewisham,51.47340214,-0.028555294,Shared room,15,1,11,28/07/2016,1.28,1,351
+13913493,Modern hostel at a cheap price in South London,82539798,Joel,,Lewisham,51.47513123,-0.023141621,Shared room,15,1,3,19/09/2016,1.03,1,25
+14773909,1 stop to London bridge (Shared fun),92189721,Wing Yin,,Lewisham,51.46785995,-0.022309613,Shared room,16,1,1,05/09/2016,1,4,338
+1937945,Spare room in Greenwich,10026309,Solange,,Greenwich,51.43642192,0.050350104,Shared room,25,3,0,,,2,365
+4537559,Nogin's Nest ~for a good night rest,22614802,Nogin,,Greenwich,51.48352296,0.077170423,Shared room,30,2,13,08/08/2016,0.58,2,4
+15193396,Room share. London. Se18. £60pw.,94579766,Se18,,Greenwich,51.48396116,0.073354704,Shared room,10,2,2,02/10/2016,2,3,349
+10983223,Two guest in one room.,41234483,Santosh,,Greenwich,51.48184032,0.068502206,Shared room,40,1,3,17/09/2016,0.7,4,365
+12394964,Single beds in share girls room,42150612,Tomasz,,Greenwich,51.48002793,0.073489492,Shared room,16,5,0,,,3,360
+13200072,To rent bed 10min walks toWoolwich Arsenal Station,67001744,Paul,,Greenwich,51.4916366,0.066792147,Shared room,12,7,4,21/07/2016,1.02,1,365
+5137567,伦敦东南eltham 21分钟到伦敦中心Charing cross,25787919,Anna,,Greenwich,51.45535302,0.032163896,Shared room,70,1,0,,,1,365
+7830164,Twin room ideal for two people,41234483,Santosh,,Greenwich,51.48362559,0.0690819,Shared room,40,1,1,25/08/2015,0.07,4,365
+8880918,BUNKY IN GORGEOUS HOUSE,37423294,Folabomi,,Greenwich,51.50154051,0.117878846,Shared room,19,1,5,24/08/2016,0.43,4,344
+15173137,Room share. Woolwich. SE18,94579766,Se18,,Greenwich,51.48157059,0.076971595,Shared room,10,2,0,,,3,358
+7723846,Luxury flat to share,40575069,Nina,,Greenwich,51.48840901,0.067642523,Shared room,40,1,1,13/09/2016,1,1,365
+7986130,Share room in SE18 London/hostel,42150612,Tomasz,,Greenwich,51.48022367,0.073066198,Shared room,11,4,8,25/07/2016,0.63,3,358
+14242008,The Wellington House,42150612,Tomasz,,Greenwich,51.4842337,0.030419549,Shared room,15,2,1,28/08/2016,0.81,3,358
+2090203,London on a budget,10026309,Solange,,Greenwich,51.43805733,0.051261099,Shared room,40,7,0,,,2,365
+6152049,Shared Bunk Bed  Room,31909149,Vito,,Greenwich,51.4839587,0.090693276,Shared room,13,1,7,05/06/2016,0.46,6,280
+7657482,Gorgeous Guestroom in Quirky House,37423294,Folabomi,,Greenwich,51.50177801,0.119634747,Shared room,20,1,10,03/08/2016,0.72,4,365
+15279085,Homely share room in Woolwich Arsenal,97227134,Anna,,Greenwich,51.47858507,0.07600824,Shared room,16,1,0,,,1,79
+8006437,Cosy Sofa Bed in Shared Room,31909149,Vito,,Greenwich,51.48427119,0.092079925,Shared room,11,1,1,05/04/2016,0.16,6,365
+4985116,Large Comfy room in Cosy Apartment,1803684,John,,Greenwich,51.44929535,0.052397521,Shared room,28,1,10,12/02/2016,0.5,2,365
+4356803,Nogin's Nest ~for a good night rest,22614802,Nogin,,Greenwich,51.48586924,0.077859124,Shared room,35,2,25,23/08/2016,1.29,2,4
+9009486,Single room with a bunk bed,47045964,Moni,,Bexley,51.45673684,0.141739178,Shared room,30,1,0,,,1,365
+2133264,Welcoming  house close to amenities,10885188,Gertrude,,Bexley,51.48530069,0.166981041,Shared room,16,1,1,11/08/2016,0.56,1,365
+1902251,Cozy room,3467954,Braiden,,Bexley,51.49124905,0.1310738,Shared room,15,1,18,10/01/2016,0.52,1,327
+7166910,Great house at Twickenham Stadium,37537865,Lia,,Richmond upon Thames,51.45507894,-0.340592539,Shared room,450,1,6,29/05/2016,0.43,1,361
+8111460,Basement flat in large house,36886236,Sally,,Richmond upon Thames,51.4525367,-0.322309825,Shared room,200,1,1,28/09/2015,0.08,2,0
+12828020,Welcoming Sofa - Richmond,69999015,Julia,,Richmond upon Thames,51.45591026,-0.30991151,Shared room,25,1,1,08/05/2016,0.2,1,179
+13154282,Nice space in Twickenham,73412077,Bessi,,Richmond upon Thames,51.44184847,-0.350889529,Shared room,27,1,1,01/07/2016,0.32,2,337
+14718140,Top floor of charming town house,85285547,Anne,,Richmond upon Thames,51.4470107,-0.334098843,Shared room,50,1,1,11/09/2016,1,1,363
+13256849,Nice getaway only 15 minutes away from central,74596142,Leo,,Richmond upon Thames,51.46220905,-0.304705947,Shared room,35,1,2,20/08/2016,0.76,1,364
+11823338,Wimbledon Double room,62980270,Chris,,Merton,51.41846225,-0.221780671,Shared room,45,1,5,21/09/2016,1.53,1,178
+110934,"A large-sized, bright carpeted room, fast wifi",569007,Ali Asghar,,Merton,51.40011452,-0.129852485,Shared room,28,2,8,17/09/2016,2.38,7,59
+14812618,"Sofa in neat shared room, fast wifi",569007,Ali Asghar,,Merton,51.39939489,-0.132450482,Shared room,15,2,0,,,7,78
+10704858,Shared Room Tooting Borders,54785855,Zalan,,Merton,51.41833875,-0.152642014,Shared room,14,1,8,26/09/2016,0.98,2,365
+5361378,Cosy room in a two bedroom flat.,27708570,Shahla,,Merton,51.41506037,-0.222107931,Shared room,45,1,7,06/06/2016,0.55,1,365
+13353906,"Ground floor, spacious and well-light double-room",75719207,Carline,,Merton,51.41960241,-0.226907613,Shared room,90,1,1,30/06/2016,0.31,1,89
+14263360,"Single bed in neat shared room, fast wifi",569007,Ali Asghar,,Merton,51.40122688,-0.131312841,Shared room,17,2,2,23/09/2016,1.02,7,62
+15267008,"Double bed in bright shared room, fast wifi",569007,Ali Asghar,,Merton,51.39998567,-0.130843366,Shared room,19,2,0,,,7,22
+7918383,Single bed in a shared room,38644424,Antonio,,Merton,51.40948135,-0.142017675,Shared room,15,1,33,05/09/2016,2.51,2,360
+4510489,LARGE LIVING ROOM IN A LUXURY AND N,23118997,Beatriz,,Merton,51.39704921,-0.142534454,Shared room,28,1,4,05/04/2016,0.19,4,352
+15211908,"Single bed in bright shared room, fast wifi",569007,Ali Asghar,,Merton,51.40076604,-0.130982872,Shared room,17,2,0,,,7,22
+13579650,"Double bed in neat shared room, fast wifi",569007,Ali Asghar,,Merton,51.40129913,-0.133282618,Shared room,19,2,6,30/08/2016,1.75,7,79
+10328222,Sofa bed in a modern new build flat,38831605,Phillip,,Wandsworth,51.45774156,-0.196039227,Shared room,20,1,4,03/06/2016,0.46,1,365
+14778924,Bunk bed in bright bedroom zone 2,6141620,Manuela,,Wandsworth,51.47616001,-0.140191668,Shared room,12,1,0,,,15,359
+9627231,Contemporary flat with river view,49795983,Prejesh,,Wandsworth,51.46216822,-0.189166601,Shared room,70,1,0,,,1,365
+9026789,Medsun Crown,30397045,Στρατης,,Wandsworth,51.46466874,-0.156404157,Shared room,50,1,0,,,1,361
+13888163,Maison avec grand jardin,67609087,Emmanuelle,,Wandsworth,51.46448881,-0.22191977,Shared room,20,1,0,,,1,0
+2555135,Comfortable sofa bed in Zone 2,13083717,Jai Shree,,Wandsworth,51.46556805,-0.16907252,Shared room,50,1,4,30/09/2016,0.13,1,365
+10843390,Luxury Apartment in Battersea,56159369,Val,,Wandsworth,51.47297298,-0.175978556,Shared room,251,1,0,,,2,365
+12109766,Airbed in Spacious Living Room,33545232,Beth,,Wandsworth,51.47150121,-0.165752259,Shared room,22,1,18,28/09/2016,2.92,1,39
+311667,"Comfy Sofa, Wandsworth, London",1158384,Ronald,,Wandsworth,51.45704443,-0.182597366,Shared room,25,1,62,09/04/2016,1.06,2,365
+9204579,Roomshare central London,47875527,Alex,,Wandsworth,51.47531907,-0.167712662,Shared room,16,2,0,,,1,0
+10128738,Single bed on shared room,51979194,Emerson,,Wandsworth,51.47645276,-0.166076106,Shared room,20,1,0,,,1,0
+606556,"Comfy Sofa, Wandsworth, London",1158384,Ronald,,Wandsworth,51.4572514,-0.181405151,Shared room,25,1,17,06/07/2016,0.42,2,365
+15019523,"SHARED Studio Apt, Clapham (Wandsworth)",76782996,Gen,,Wandsworth,51.45857718,-0.171058234,Shared room,16,1,0,,,1,364
+5056712,Lovely Studio to share,20600315,Katherine,,Wandsworth,51.47285988,-0.15501969,Shared room,22,1,24,23/06/2016,1.29,1,275
+13933988,Perfect for budget traveller,61805222,Kiko,,Wandsworth,51.43966232,-0.158134716,Shared room,25,1,0,,,3,26
+3871899,"Two doubles, ensuite & home",20000632,Charles,,Wandsworth,51.4798065,-0.167080167,Shared room,100,1,0,,,1,312
+5779469,Friendly home - no men,29983627,Sara,,Hammersmith and Fulham,51.49897899,-0.245861853,Shared room,25,2,7,01/07/2016,0.42,2,44
+10182446,Cozy apartment  in zone 2,7566278,Carolina,,Hammersmith and Fulham,51.4969763,-0.232185134,Shared room,35,2,27,07/09/2016,2.95,2,59
+15109992,Sofa in city !!!!,50421384,Samantha,,Hammersmith and Fulham,51.50765356,-0.231366948,Shared room,19,1,0,,,1,363
+14609741,"THE QUEENS HOSTEL , 6 BED FEMALE DORM",82481194,Marian,,Hammersmith and Fulham,51.51145268,-0.227345671,Shared room,20,1,8,21/09/2016,5.71,5,347
+13387426,Student House,48935210,Fu,,Hammersmith and Fulham,51.48683622,-0.199327197,Shared room,12,1,1,06/06/2016,0.25,1,0
+13639153,Cosy Roomshare minutes walk to Fulham Broadway,7863766,Sam,,Hammersmith and Fulham,51.47827554,-0.199064106,Shared room,25,1,1,30/06/2016,0.31,1,6
+446958,Heart of London Apartment ,2219616,Hicham,,Hammersmith and Fulham,51.50848921,-0.233871854,Shared room,157,1,0,,,1,365
+7321390,SIGLE ROOM IN VERY NICE FLAT,38352787,Patricio,,Hammersmith and Fulham,51.49771299,-0.217426973,Shared room,45,2,16,22/07/2016,1.11,1,275
+13196961,Friendly sharing in London centre,52849257,Luigi,,Hammersmith and Fulham,51.48634314,-0.202217044,Shared room,40,2,5,26/09/2016,1.36,2,205
+14380199,"Nice room, 2 single beds",63059144,Lucinda,,Hammersmith and Fulham,51.46840434,-0.186500153,Shared room,28,1,17,29/09/2016,9.44,1,16
+9361025,Central apartment Sofa bed.,8755810,Nazan,,Hammersmith and Fulham,51.47803514,-0.19445838,Shared room,45,1,1,29/11/2015,0.1,3,365
+12904379,A perfect home away from home in the❤️of London!,68475656,Kiki,,Hammersmith and Fulham,51.46992111,-0.189871741,Shared room,35,2,3,13/09/2016,0.93,1,173
+12898503,Cozy double in Shepherds Bush,12322247,Silvia,,Hammersmith and Fulham,51.50204092,-0.221156648,Shared room,59,1,0,,,1,83
+14603546,Double room ensuit opposite station,90611058,Ken,,Hammersmith and Fulham,51.49376034,-0.223469264,Shared room,60,1,0,,,1,364
+11717625,1 bedroom with queen size bed in West Kensington,62303596,Fatkhur,,Hammersmith and Fulham,51.48904135,-0.205505193,Shared room,30,1,1,18/09/2016,1,1,274
+14609628,"THE QUEENS HOSTEL , SIX BED MIXED DORM",82481194,Marian,,Hammersmith and Fulham,51.51273946,-0.226961785,Shared room,20,1,6,19/09/2016,4.19,5,350
+13908309,"THE QUEENS HOSTEL, 6 BED MIXED DORM",82481194,Marian,,Hammersmith and Fulham,51.5105772,-0.229909373,Shared room,20,1,14,24/09/2016,4.94,5,352
+13762247,Central London River Side Studio,2870511,Amir,,Hammersmith and Fulham,51.48182483,-0.223472759,Shared room,30,1,0,,,1,0
+14445017,"THE QUEENS HOSTEL , 6 BED MALE DORM",82481194,Marian,,Hammersmith and Fulham,51.51126529,-0.231159861,Shared room,20,1,4,02/10/2016,4,5,352
+6776959,Female shared triple room w/ Wi-Fi,33426547,LHA London - Belvedere House,,Kensington and Chelsea,51.49595582,-0.184411523,Shared room,26,1,6,25/09/2016,0.42,8,19
+9644378,Room for the Holidays!,40572839,Lara,,Kensington and Chelsea,51.49156916,-0.171128392,Shared room,20,5,0,,,1,0
+12338385,Big 3 seater sofa to use,10005720,Hazem,,Kensington and Chelsea,51.49293073,-0.196558872,Shared room,40,1,1,01/08/2016,0.47,1,89
+10063293,Beautiful portobello flat,6268535,Eliza,,Kensington and Chelsea,51.51629671,-0.201821222,Shared room,50,1,2,03/06/2016,0.22,1,185
+14364749,"Bed in Male Shared 2 Bed Room w/WiFi, Gym & B'fast",68061484,LHA London - Bowden Court,,Kensington and Chelsea,51.50866475,-0.201790965,Shared room,33,1,3,12/09/2016,2.57,8,61
+14100581,Safestay Holland Park,83912266,Safestay,,Kensington and Chelsea,51.50484285,-0.203731296,Shared room,20,1,6,26/09/2016,2.86,2,254
+12556780,Bed in Female Shared 2 Bed Room with Free Wi-Fi,68061484,LHA London - Bowden Court,,Kensington and Chelsea,51.5102643,-0.20040473,Shared room,33,1,8,27/08/2016,2.61,8,0
+14364487,"Bed in Female Shared 2 Bed Room (WiFi, Gym&B'fast)",68061484,LHA London - Bowden Court,,Kensington and Chelsea,51.50897502,-0.201819028,Shared room,33,1,1,09/09/2016,1,8,61
+7755991,Male Shared Twin room w/Wi-Fi (b),33426547,LHA London - Belvedere House,,Kensington and Chelsea,51.49462428,-0.185873317,Shared room,29,1,7,29/08/2016,0.53,8,0
+14440805,"Bed in Female Shared 2 Bed Room w/WiFi, Gym&B'fast",68061484,LHA London - Bowden Court,,Kensington and Chelsea,51.50991023,-0.201784254,Shared room,33,1,2,30/08/2016,1.2,8,61
+12077979,Huge airbed in Kensington!,5516065,Sophia,,Kensington and Chelsea,51.50004522,-0.212729846,Shared room,24,1,13,17/09/2016,2.1,2,18
+14801541,Sofa bed for Solo Female Traveller,57859645,Kimberly,,Kensington and Chelsea,51.48988214,-0.193323054,Shared room,24,1,9,03/10/2016,9,1,64
+7592855,Amazing Flat in South Kensington,26776344,Diego,,Kensington and Chelsea,51.49157291,-0.176468513,Shared room,160,1,0,,,1,0
+5104348,Shared Bedsit with girl on Portobello road,26373310,Sophie,,Kensington and Chelsea,51.52021948,-0.203827067,Shared room,40,1,1,05/06/2015,0.06,1,365
+6966615,Male shared twin room w/Wi-Fi (a),33426547,LHA London - Belvedere House,,Kensington and Chelsea,51.49600888,-0.186246332,Shared room,26,1,4,06/09/2016,0.28,8,25
+6408947,Female Shared twin room w/Wi-Fi (a),33426547,LHA London - Belvedere House,,Kensington and Chelsea,51.49656534,-0.184499067,Shared room,26,1,8,17/04/2016,0.57,8,0
+9675134,Female Shared Dorm Room w/Wi-Fi,33426547,LHA London - Belvedere House,,Kensington and Chelsea,51.49689589,-0.184039611,Shared room,25,3,2,02/01/2016,0.21,8,0
+14768607,New and very clean apartment with Superking bed,92126069,Phanida,,Kensington and Chelsea,51.51021825,-0.195481528,Shared room,90,2,0,,,1,358
+3504539,Top Flat Nothing Private Doubleroom,843497,Frantisek,,Kensington and Chelsea,51.51876366,-0.211448067,Shared room,69,3,3,06/12/2015,0.13,2,352
+10315641,单独的女生公寓，拎包入住，地理位置极佳，厨房洗手间,22060949,Chica,,Kensington and Chelsea,51.48992459,-0.189461456,Shared room,35,1,0,,,1,0
+1901842,Double pull out sofa Knightsbridge!,9194608,Clarence James,,Kensington and Chelsea,51.49601358,-0.164341546,Shared room,40,1,103,29/09/2016,2.92,1,33
+14439255,"Bed in Male Shared 2 Bed Room (WiFi, Gym & B'fast)",68061484,LHA London - Bowden Court,,Kensington and Chelsea,51.50917755,-0.199962654,Shared room,33,1,2,08/09/2016,1.18,8,61
+13666354,Bed in Male Shared 2 Bed Room with free Wi-Fi,68061484,LHA London - Bowden Court,,Kensington and Chelsea,51.510698,-0.202129853,Shared room,19,1,10,12/09/2016,3,8,0
+4406677,property in earls court,22842884,Feng,,Kensington and Chelsea,51.50832795,-0.193277389,Shared room,125,1,0,,,1,0
+6370452,si come no is perfect,8532780,Corrado,,Kensington and Chelsea,51.49084908,-0.171206886,Shared room,173,1,0,,,1,365
+14624343,Barkston Rooms Earls Court,90782261,Barkston Rooms,,Kensington and Chelsea,51.49299596,-0.191521508,Shared room,14,1,6,18/09/2016,5,1,347
+8837451,Central Cosy unusual flat,186505,Tanya,,Kensington and Chelsea,51.49135382,-0.19385275,Shared room,100,1,7,06/08/2016,0.73,2,348
+7864501,Lovely Flat Earl's Court(only Girl),7899725,Costanza,,Kensington and Chelsea,51.48585436,-0.18763628,Shared room,40,1,5,16/05/2016,0.39,1,357
+7757316,Male Shared Dorm Room w/Wi-Fi,33426547,LHA London - Belvedere House,,Kensington and Chelsea,51.49438806,-0.184541763,Shared room,25,3,4,20/12/2015,0.29,8,0
+7756579,Male Shared Triple Room w/Wi-Fi,33426547,LHA London - Belvedere House,,Kensington and Chelsea,51.49492474,-0.184483055,Shared room,26,1,2,01/01/2016,0.21,8,3
+12998031,Deluxe King Size Room,68800137,Rosie,,Kensington and Chelsea,51.49190046,-0.193542031,Shared room,155,1,0,,,5,365
+14050164,Very cute place in Holland Park,83711883,Gabriela,,Kensington and Chelsea,51.50556981,-0.205799709,Shared room,70,1,1,17/08/2016,0.63,1,89
+7754151,Female Shared Twin Room w/Wi-Fi (b),33426547,LHA London - Belvedere House,,Kensington and Chelsea,51.49595911,-0.186034577,Shared room,29,1,13,14/09/2016,0.94,8,0
+7892257,is on the ro,33162578,Alexandre,,City of London,51.51238963,-0.107032337,Shared room,130,1,0,,,1,365
+8218808,Luxury Apartment Tower Hill,43338809,Ashir,,City of London,51.51100306,-0.077274406,Shared room,215,1,1,18/10/2015,0.09,1,365
+4780958,Double sofa bed in central London,3771427,Gosia,,City of London,51.51727074,-0.09913454,Shared room,46,1,35,18/07/2016,1.68,1,16
+9820948,Charming bedroom in a 2bed flat,5346800,Soraya,,Westminster,51.48994829,-0.142761956,Shared room,70,2,0,,,1,362
+10536244,Cozy 4Bedrooms Apartment in Mayfair,44045880,Mitchell,,Westminster,51.50678021,-0.145746233,Shared room,258,1,0,,,1,365
+6130708,"1 bed in 4-bed dorm, central London",21772653,Phiroza,,Westminster,51.51194046,-0.118683984,Shared room,27,1,17,11/09/2016,0.98,23,353
+8747240,"1 bed in 3-bed dorm, central London",21772653,Phiroza,,Westminster,51.51263448,-0.11771669,Shared room,28,1,0,,,23,365
+8560441,"1 bed in 6-bed dorm, central London",21772653,Phiroza,,Westminster,51.51263656,-0.117145032,Shared room,25,1,4,30/09/2016,0.32,23,365
+9607753,victoria coach lalala,49714415,Doyoung,,Westminster,51.49034184,-0.145190587,Shared room,25,1,7,25/09/2016,0.8,2,78
+9023354,Studio paisible au coeur de LDN,47107770,Audrey,,Westminster,51.51416405,-0.181508289,Shared room,45,1,0,,,1,0
+7572649,"1 bed in 3-bed dorm, central London",21772653,Phiroza,,Westminster,51.51085647,-0.119334113,Shared room,28,1,13,15/08/2016,0.93,23,365
+2592314,Two Bed Apartment in St john's Wood,13143054,E.Man,,Westminster,51.53729723,-0.174951009,Shared room,160,1,0,,,1,365
+6406646,"1 bed in 6-bed dorm, central London",21772653,Phiroza,,Westminster,51.51183728,-0.118839635,Shared room,25,1,8,06/09/2016,0.55,23,364
+8624312,Phoenix Hostel & Pub,45363496,Phoenix,,Westminster,51.52088686,-0.166298682,Shared room,17,1,21,27/09/2016,1.79,1,145
+8099164,"1 bed in 6-bed dorm, central London",21772653,Phiroza,,Westminster,51.51230888,-0.119568145,Shared room,25,1,9,18/09/2016,0.67,23,365
+6130102,"1 bed in 3-bed dorm, central London",21772653,Phiroza,,Westminster,51.51067171,-0.119205867,Shared room,28,1,18,16/09/2016,1.07,23,362
+9110236,Double sofa-bed and single wall bed in front room,28769431,Julie,,Westminster,51.48808189,-0.144927674,Shared room,25,7,23,21/08/2016,2.05,1,33
+12124557,Central Room in Mayfair,22844280,Tal,,Westminster,51.50635308,-0.144273751,Shared room,95,1,2,14/04/2016,0.33,6,365
+10026158,"Single bed, female, shared room",51478914,Adélie,,Westminster,51.52514416,-0.196372847,Shared room,20,1,1,01/04/2016,0.16,1,0
+14218351,Double bedroom in Luxury Appartment - Paddington,35757970,Charles,,Westminster,51.51767701,-0.172692985,Shared room,80,1,0,,,1,89
+15263052,victoria coach station,49714415,Doyoung,,Westminster,51.48945163,-0.146214449,Shared room,70,1,0,,,2,350
+14864509,런던퀸스민박,11452347,런던,,Westminster,51.4906163,-0.148154236,Shared room,24,1,1,05/09/2016,1,1,350
+9751166,Large double bdr in amazing duplex!,8831051,Erwan,,Westminster,51.52643463,-0.184947319,Shared room,60,1,0,,,1,0
+12066488,ZC's hommie,29516349,Sze Keat,,Westminster,51.52242782,-0.142613474,Shared room,50,1,0,,,1,365
+9871912,HYDE PARK W2 cosy Single Sofa bed,18313684,Brian,,Westminster,51.51171242,-0.180977465,Shared room,49,1,0,,,1,364
+6851949,London Hometel,29398565,Benedict,,Westminster,51.48986987,-0.13323167,Shared room,50,1,1,28/09/2015,0.08,2,365
+6849643,Homtel London,29398565,Benedict,,Westminster,51.48852555,-0.133299733,Shared room,60,1,1,26/10/2015,0.09,2,365
+2173188,COSY CONVENIENT ROOM CENTRAL LONDON,11086628,Konstantin,,Westminster,51.51586403,-0.174312336,Shared room,30,1,84,09/09/2016,2.56,1,348
+14229145,Single bed for female in shared room! Zone 1!,86491077,Becca,,Westminster,51.52610811,-0.166425327,Shared room,18,1,2,05/09/2016,1.25,1,215
+3087635,"Great Comfy Sofa Bed, Hyde Park ",9374094,Saji,,Westminster,51.51410876,-0.180948695,Shared room,55,1,22,24/07/2016,0.77,1,104
+8985838,"1 bed in 4-bed dorm, central London",21772653,Phiroza,,Westminster,51.51126362,-0.117187896,Shared room,27,1,7,17/09/2016,0.75,23,360
+7897852,Luxury stay 2 min from Oxford St,19226300,C,,Westminster,51.51803682,-0.158294917,Shared room,45,1,4,07/06/2016,0.32,1,90
+11900029,"1 bed in 3-bed dorm, central London",21772653,Phiroza,,Westminster,51.51192996,-0.118177928,Shared room,28,1,1,28/05/2016,0.23,23,359
+15142860,AMAZING DOUBLE ROOM,54869770,Daniele,,Westminster,51.52461328,-0.170001456,Shared room,35,1,1,25/09/2016,1,4,306
+13569971,Amazing 3 bedder single room at Central London,60512625,Krati,,Westminster,51.51356716,-0.190815056,Shared room,7006,1,0,,,1,0
+11810527,Superb Accommodation in Hyde Park.,50358337,Am,,Westminster,51.51219505,-0.179422511,Shared room,50,1,19,18/09/2016,3.28,1,360
+9184514,Sofa bed in a cosy flat in Pimlico,8801730,Lucie Et Vincent,,Westminster,51.48798574,-0.136531197,Shared room,50,1,3,27/05/2016,0.28,3,0
+7610951,"1 bed in 4-bed dorm, central London",21772653,Phiroza,,Westminster,51.51122051,-0.117574138,Shared room,28,1,7,15/09/2016,0.55,23,361
+9306379,Cosy room in CENTRAL LONDON,16536116,Zeynep,,Westminster,51.51394401,-0.17672407,Shared room,45,1,0,,,2,0
+6980088,Beautiful studio balcony park view,36601008,Maithili,,Westminster,51.51093081,-0.184909234,Shared room,50,2,1,21/09/2015,0.08,1,364
+9293063,"1 bed in 3-bed dorm, central London",21772653,Phiroza,,Westminster,51.51105624,-0.117693879,Shared room,28,1,3,04/07/2016,0.46,23,359
+12215272,6 Bed Mixed Dormitory Ensuite,65704278,Smart Hyde Park View,,Westminster,51.51086421,-0.181941861,Shared room,20,1,7,09/08/2016,1.54,2,284
+14440125,Gorgeous and Spacious 2 Bedroom in Knightsbridge,7258745,Caroline,,Westminster,51.50223312,-0.160394731,Shared room,350,14,0,,,21,365
+14962709,Hyde parke mansion 3 Bed,44679311,Mehdi,,Westminster,51.51944308,-0.167296714,Shared room,550,1,0,,,17,365
+14671473,Shared room,91180600,Yerlan,,Camden,51.52327345,-0.139710994,Shared room,25,10,1,10/09/2016,1,1,179
+13881035,Shared Double Room London Euston,52346353,James,,Camden,51.52895833,-0.138033566,Shared room,36,1,5,17/09/2016,2.14,4,92
+11100907,Shared Double Room London Euston,15856564,James,,Camden,51.52914986,-0.138478906,Shared room,15,1,19,25/08/2016,2.94,3,0
+4790550,Bed in the Heart of Camden 2,24014262,Andrei,,Camden,51.54073635,-0.14232717,Shared room,20,1,81,14/09/2016,3.73,5,344
+5110704,Pax Lodge- WAGGGS,26407571,Pax,,Camden,51.55153983,-0.170718939,Shared room,28,1,0,,,1,275
+10860229,Zone1- 8min walk to 5 tube stations,51105434,Ipsita,,Camden,51.52593959,-0.140393794,Shared room,27,2,20,17/07/2016,3.26,1,0
+12669144,Single bed,52344906,Kamshat,,Camden,51.529387,-0.117536275,Shared room,20,1,2,27/08/2016,1.28,2,29
+4556040,Pullman London St Pancras,22788359,Adam,,Camden,51.52869573,-0.127592171,Shared room,50,2,0,,,1,0
+10175130,Decent room with modern facilities,52121261,Davis,,Camden,51.55139747,-0.204383283,Shared room,50,1,0,,,1,365
+4790864,Bed in the Heart of Camden Town,24014262,Andrei,,Camden,51.53998015,-0.144134137,Shared room,20,1,91,19/09/2016,4.19,5,350
+2317813,Sofa Bed With Wifi In Camden Town,53348,Arzu,,Camden,51.54805164,-0.152054302,Shared room,22,1,62,25/09/2016,1.98,11,365
+13589958,Bedsit,78483516,Joaquim,,Camden,51.55721284,-0.143043606,Shared room,35,1,1,09/07/2016,0.34,1,0
+15109913,AMAZIN DOUBLE ROOM IN CENTRAL LONDON,54869770,Daniele,,Camden,51.54103016,-0.183823402,Shared room,20,1,0,,,4,306
+4799995,Double Bed in Camden,22515657,Thanos,,Camden,51.53630273,-0.138507228,Shared room,30,3,1,13/09/2016,1,2,204
+3509683,Central London home in Camden,8942716,Ben,,Camden,51.5452365,-0.128800176,Shared room,140,3,5,19/08/2015,0.19,1,362
+7896429,Friendly Couch Surf in the City,41633333,Keya,,Camden,51.53182426,-0.134276073,Shared room,35,1,38,01/10/2016,2.89,3,85
+8316666,Double  Nest,43843093,Congcong,,Camden,51.54357487,-0.179876913,Shared room,40,3,0,,,1,80
+2284828,Cosy Shared Room for only 2 Females,11663271,Sunshine,,Camden,51.53842865,-0.193049924,Shared room,30,2,3,23/09/2015,0.12,1,365
+14500964,"Nice room near Primrose Hill, Camden.",89545326,James,,Camden,51.54055454,-0.156007953,Shared room,50,7,0,,,1,364
+4790905,Bed in the Heart of Camden 3,24014262,Andrei,,Camden,51.53995564,-0.144153209,Shared room,20,1,88,04/09/2016,4.22,5,357
+11997081,Double Sofa Bed 1min to Kings Cross,46944858,Anthony,,Camden,51.52807475,-0.125136273,Shared room,65,1,14,14/07/2016,2.28,3,364
+12912598,Cheap & Cozy Central London Holbour,66092379,Fabio,,Camden,51.52079804,-0.111228655,Shared room,35,2,1,09/08/2016,0.54,2,82
+4202633,"Old school bunk bed with balcony.
+",21491379,Fikayo,,Camden,51.54954259,-0.153763965,Shared room,49,1,14,15/07/2016,0.65,1,358
+9707083,"Bright airy flat,fantastic location",50120291,Gemma,,Camden,51.54846067,-0.14995983,Shared room,38,5,0,,,1,0
+8263481,Central location - Maida Vale,36218475,Agatha,,Camden,51.53850142,-0.190194286,Shared room,35,1,15,18/09/2016,1.15,1,358
+14029144,Large double bedroom in King's Cross,83986736,Alessandro,,Camden,51.5292732,-0.116922693,Shared room,35,7,1,09/09/2016,1,1,44
+14116063,"Central London, Warren Street Station,",64661860,Sofya,,Camden,51.52958124,-0.13892538,Shared room,39,2,5,08/09/2016,2.34,1,357
+4345509,Sofa bed in Kentish Town,22559549,Simon,,Camden,51.54917394,-0.138387204,Shared room,20,1,0,,,1,365
+13823476,25 NEW Dormitory Zone1 Towerbridge,48745803,Ken & Saori,,Tower Hamlets,51.51355662,-0.044033731,Shared room,19,1,0,,,12,349
+12501402,26 NEW Dormitory  Zone1 Towerbridge,48745803,Ken & Saori,,Tower Hamlets,51.51431943,-0.042238813,Shared room,19,1,0,,,12,138
+7580037,Room share for the month of August,39744889,Zita,,Tower Hamlets,51.51375334,-0.068042943,Shared room,19,21,0,,,1,0
+7576313,SHARED ROOM IN SHADWELL#1401,17684278,Lilly,,Tower Hamlets,51.51091443,-0.057007108,Shared room,19,1,0,,,79,365
+2213671,Fun Warehouse Shared Room,11174701,Laura Louise,,Tower Hamlets,51.53948089,-0.022600159,Shared room,20,2,6,01/09/2016,0.18,1,101
+14363062,Roomshare // Beautiful and big house,73775945,Asia,,Tower Hamlets,51.52407192,-0.051714056,Shared room,16,2,1,02/10/2016,1,1,0
+6608382,Luxury double room with ensuite,34578070,Jase,,Tower Hamlets,51.50083728,-0.017918027,Shared room,77,1,0,,,1,0
+7386781,Canary Wharf -  Manhattan of London,30666190,Cesar,,Tower Hamlets,51.49608937,-0.022040849,Shared room,50,2,9,12/09/2016,0.65,1,365
+14233128,huge amazing double room near canary warf zona 2,26360669,Daniela,,Tower Hamlets,51.51294221,-0.013306483,Shared room,30,1,1,12/08/2016,0.57,1,76
+8370894,Luxury apartment in Canary Wharf,31593676,Jon,,Tower Hamlets,51.49959189,-0.017287466,Shared room,110,1,0,,,1,149
+11340210,Shared room in Canary Wharf#1504,17684278,Lilly,,Tower Hamlets,51.51258012,-0.024648281,Shared room,19,1,0,,,79,365
+8283155,Nice double bedroom in Shordeditch,43675233,Elodie,,Tower Hamlets,51.52475804,-0.071152827,Shared room,80,1,0,,,1,0
+8574561,Amazing flat just off Brick Lane,17710235,Olivier,,Tower Hamlets,51.5185814,-0.070351454,Shared room,45,1,2,03/12/2015,0.17,1,0
+6578246,Single room in shared apparent.,34412295,Nick,,Tower Hamlets,51.52646084,-0.01933403,Shared room,35,1,2,01/01/2016,0.15,1,364
+6995130,Lovely bedroom in  East London,16520852,Francesca,,Tower Hamlets,51.5298611,-0.023928951,Shared room,35,1,1,25/06/2015,0.06,1,0
+10921908,Shared room near Tower Bridge#1701b,17684278,Lilly,,Tower Hamlets,51.51285595,-0.032198089,Shared room,19,1,0,,,79,365
+7230707,BIG Private Room in Modern Flat!,9045869,Ivet,,Tower Hamlets,51.5179579,-0.02328607,Shared room,29,2,14,23/09/2016,0.95,2,75
+13332198,"(RM 1) Period Boutique Hostel, Best Rating in UK",59661270,Zaeem,,Tower Hamlets,51.52624289,-0.035891173,Shared room,24,1,13,02/10/2016,3.39,4,343
+13816724,21 ZONE1 Specious Dormitory 1mins to stn,48745803,Ken & Saori,,Tower Hamlets,51.51312971,-0.042525342,Shared room,20,1,1,25/09/2016,1,12,313
+7850553,1 bed flat in east london,3404858,Paul,,Tower Hamlets,51.52093681,-0.044909787,Shared room,70,1,0,,,1,365
+12265221,Roomshare near Canary wharf #2003,17684278,Lilly,,Tower Hamlets,51.52405973,-0.017373056,Shared room,19,1,0,,,79,365
+10451263,Sofa Bed in Modern Studio Apartment,53752156,Jordan,,Tower Hamlets,51.51415366,-0.001834991,Shared room,15,2,20,20/09/2016,3.31,1,62
+5869110,a London Private room价廉双床17镑起,30474840,Fang,,Tower Hamlets,51.53060174,-0.024151357,Shared room,49,2,8,25/06/2016,0.45,4,365
+13537469,"(RM 8) Period Boutique Hostel, Best Rating in UK",59661270,Zaeem,,Tower Hamlets,51.52566537,-0.037284222,Shared room,24,1,9,02/10/2016,3.07,4,339
+13474156,Central Cheap twin room in Canary Wharf **Zone 2**,74585479,Marì,,Tower Hamlets,51.50872483,-0.028310829,Shared room,18,1,8,07/09/2016,2.93,4,76
+14916192,Amazing Location close to City,1802649,Niaz,,Tower Hamlets,51.51822983,-0.039751703,Shared room,50,1,0,,,3,365
+12709210,NEW LUX HOUSE-NO DEPOSIT/SOFT WATER,69089603,Sai,,Tower Hamlets,51.51647147,-0.011583821,Shared room,220,1,0,,,1,365
+11605126,Room 25 min Oxford Circus#11051,17684278,Lilly,,Tower Hamlets,51.51446545,-0.025675149,Shared room,19,1,0,,,79,365
+11665184,COSY NEW DAY BED FUTON-SHOREDICTH,12992655,Simo,,Tower Hamlets,51.52585852,-0.062933263,Shared room,22,3,6,11/07/2016,1.43,2,337
+8191879,SHARED ROOM IN MILE END #901,17684278,Lilly,,Tower Hamlets,51.5326077,-0.03365914,Shared room,19,1,0,,,79,365
+14668911,Central Cheap Spot in Canary Wharf - By the river,74585479,Marì,,Tower Hamlets,51.50759457,-0.028452054,Shared room,22,1,3,08/09/2016,2.5,4,276
+14403707,Lincoln Plaza,36646899,Yannis,,Tower Hamlets,51.49774014,-0.020595292,Shared room,60,1,1,15/09/2016,1,1,363
+5882758,a Private living roomLondon价廉双床17镑5,30474840,Fang,,Tower Hamlets,51.53214508,-0.023394066,Shared room,29,1,1,24/07/2015,0.07,4,52
+9542712,"Shared Room w ensuite, Aldgate East",24049529,Ellen,,Tower Hamlets,51.51276597,-0.065967134,Shared room,19,1,0,,,1,0
+3512273,Shared room near Tower Bridge #1701,17684278,Lilly,,Tower Hamlets,51.51325718,-0.030372259,Shared room,19,1,0,,,79,365
+12162101,Roomshare nr Tower Bridge #02201dg1,17684278,Lilly,,Tower Hamlets,51.52344013,-0.057682354,Shared room,19,1,2,19/08/2016,0.82,79,365
+9243470,Penthouse with thames river view,29832526,Anthony,,Tower Hamlets,51.51111157,-0.044686042,Shared room,60,1,0,,,1,363
+10154346,ROOMSHARE CENTRAL LONDON (Mile End),51246211,Monzur,,Tower Hamlets,51.52886184,-0.037235125,Shared room,15,60,1,02/01/2016,0.11,1,307
+9316100,WarmCleanCozy Shared Room in Zone2,5387533,Ryan,,Tower Hamlets,51.52345477,-0.032165044,Shared room,25,2,7,06/03/2016,0.65,2,55
+7661622,Cute roomshare Central Ldn#01302,17684278,Lilly,,Tower Hamlets,51.52997264,-0.029076817,Shared room,19,1,0,,,79,337
+13823397,23NEW 1mins from Stn Dormitory Centre of City,48745803,Ken & Saori,,Tower Hamlets,51.51455417,-0.043468614,Shared room,19,1,0,,,12,345
+13823597,29 Full Curtain Dormitory a few mins from Sta,48745803,Ken & Saori,,Tower Hamlets,51.51326744,-0.043593312,Shared room,17,1,0,,,12,158
+13823540,27 Tower bridge Zone1 New Domitory,48745803,Ken & Saori,,Tower Hamlets,51.51372518,-0.042667692,Shared room,19,1,0,,,12,352
+14083490,Cheap Bedsit 30 sec from DLR - 3 stops from Bank,74585479,Marì,,Tower Hamlets,51.50906154,-0.0271306,Shared room,20,2,0,,,4,86
+13706948,Sofa or Airbed in louge with private bathroom,43501487,Hamir,,Tower Hamlets,51.5102796,-0.068826068,Shared room,24,1,2,04/07/2016,0.63,2,0
+12265011,shared room in Whitechapel #2201,17684278,Lilly,,Tower Hamlets,51.52406117,-0.056020991,Shared room,19,1,0,,,79,361
+14211542,Heart o' the City! - Shared Room in Bethnal Green.,58234593,Neville,,Tower Hamlets,51.53492886,-0.053369366,Shared room,15,2,6,25/09/2016,2.69,2,33
+14645473,Spacious Room Share in the heart of London,90924702,Federico,,Tower Hamlets,51.51047405,-0.027115133,Shared room,18,1,0,,,1,16
+7656519,Shared room near Liverpool st#00901,17684278,Lilly,,Tower Hamlets,51.53203329,-0.034707121,Shared room,19,1,0,,,79,365
+15125868,your perfect place to share,95454082,Alberto,,Tower Hamlets,51.52645984,-0.061589047,Shared room,22,1,2,27/09/2016,2,4,166
+15125579,"The lil Wolfden - comfiest sofa, awesome location!",11265699,Kat,,Tower Hamlets,51.52550835,-0.060190366,Shared room,23,3,1,28/09/2016,1,2,175
+12502335,28 Tower bridge Zone1 New Domitory,48745803,Ken & Saori,,Tower Hamlets,51.51312737,-0.043478859,Shared room,19,1,6,26/07/2016,1.18,12,98
+12501172,24NEW 1mins from Stn Dormitory Centre of City,48745803,Ken & Saori,,Tower Hamlets,51.51332747,-0.043109124,Shared room,19,1,4,10/08/2016,0.83,12,126
+11186852,Heart o' the City! - Shared Room in Bethnal Green,58234593,Neville,,Tower Hamlets,51.53286486,-0.051667749,Shared room,22,1,12,28/09/2016,4.56,2,49
+9773671,Private room with shared kitchen,25586321,Daniel,,Tower Hamlets,51.51720713,-0.065433586,Shared room,55,2,0,,,1,0
+2923674,Huge cosy corner sofa in new build,14928866,Rochelle,,Tower Hamlets,51.51745949,-0.034148718,Shared room,25,1,91,30/09/2016,3.1,1,359
+5152207,Sofa bed (and most of the lounge!),26640121,Jawad,,Tower Hamlets,51.51321294,-0.025359913,Shared room,25,1,21,30/09/2016,3.1,1,85
+13059793,Amazingly Cheap Central London flat,12878733,Mohit,,Tower Hamlets,51.51498659,-0.030490058,Shared room,36,1,0,,,1,365
+7031599,Sofo bed in great zone 2 flat,7795511,Faze,,Tower Hamlets,51.51742241,-0.027057177,Shared room,21,1,6,20/11/2015,0.39,2,90
+13710046,Great for tourist and city workers,80047668,Siobhan,,Tower Hamlets,51.50762264,-0.069624614,Shared room,77,3,0,,,1,87
+6498660,Bed in central open plan lounge,10767210,Adamina,,Tower Hamlets,51.51484879,-0.061112384,Shared room,25,1,16,06/05/2016,0.98,2,0
+12265322,Cute roomshare Central Ldn#01302,17684278,Lilly,,Tower Hamlets,51.53126568,-0.027374841,Shared room,19,1,0,,,79,365
+12265015,shared room in Whitechapel #2201,17684278,Lilly,,Tower Hamlets,51.52326515,-0.056979439,Shared room,19,1,0,,,79,365
+15146800,shared rooms en bethnal green,95454082,Alberto,,Tower Hamlets,51.52740203,-0.059193702,Shared room,22,1,1,28/09/2016,1,4,331
+15277441,Nice and bright room in East London,82894382,Giuliå,,Tower Hamlets,51.52429033,-0.052540133,Shared room,20,1,0,,,1,65
+13425023,Nice shared room near Canary wharf,17684278,Lilly,,Tower Hamlets,51.51087504,-0.022440706,Shared room,19,1,0,,,79,365
+5725919,Sofa Bed in wonderful flat,1751920,Simona,,Tower Hamlets,51.53011567,-0.067776765,Shared room,32,1,25,11/09/2016,1.42,2,40
+8325088,Roomshare near canary wharf#2003,17684278,Lilly,,Tower Hamlets,51.52587696,-0.017083625,Shared room,19,1,1,03/07/2016,0.32,79,365
+11361531,10 mins to City 3 mins to Stratford,57569823,Tanvir,,Tower Hamlets,51.52323715,-0.031996437,Shared room,17,1,3,29/06/2016,0.44,5,364
+15084605,"lovely ,shared bedrooms",95454082,Alberto,,Tower Hamlets,51.52609516,-0.066997404,Shared room,20,1,1,22/09/2016,1,4,337
+14821596,"(RM 2) Period Boutique Hostel, Best Rating in UK",59661270,Zaeem,,Tower Hamlets,51.5276146,-0.037457303,Shared room,24,1,1,02/10/2016,1,4,337
+14688750,RMA Accommodation,91333174,Rma,,Tower Hamlets,51.52169741,-0.050440883,Shared room,18,1,2,02/10/2016,2,1,360
+7341591,Roomshare 25 min Oxford Circus#1105,17684278,Lilly,,Tower Hamlets,51.51334515,-0.026804258,Shared room,19,1,0,,,79,365
+7454741,a Private room London 价廉双床17镑人起4,30474840,Fang,,Tower Hamlets,51.53232458,-0.02971744,Shared room,65,1,2,03/01/2016,0.14,4,0
+12500735,22 ZONE1 Specious Dormitory 1mins to stn,48745803,Ken & Saori,,Tower Hamlets,51.51321892,-0.04390831,Shared room,20,1,10,27/09/2016,2.05,12,123
+11824708,Shared room near Tower Bridge#02201,17684278,Lilly,,Tower Hamlets,51.52277242,-0.058350786,Shared room,19,1,2,05/04/2016,0.31,79,365
+13787298,30 Full Curtain  Dormitory a few mins from Sta,48745803,Ken & Saori,,Tower Hamlets,51.51396171,-0.042040946,Shared room,17,1,0,,,12,322
+2868232,Cute Zone2 livingroom w/privacy ,10467673,Eliza,,Tower Hamlets,51.4942633,-0.024893369,Shared room,30,1,18,29/08/2015,0.72,3,365
+6382431,Spare room in Victorian Property,33268879,Akanda,,Tower Hamlets,51.51745359,-0.067166824,Shared room,79,1,0,,,1,365
+13124278,Beautiful double room in CanaryWharf (ARE14),70299737,Jason,,Tower Hamlets,51.5052428,-0.00776942,Shared room,40,2,3,06/07/2016,0.69,8,262
+15221009,One week in central London,21799908,Karen,,Tower Hamlets,51.526244,-0.068538636,Shared room,22,1,0,,,1,364
+13871483,Cozy & Artsy double room,7122087,Effie Myeongseon,,Islington,51.56683553,-0.129594543,Shared room,50,1,0,,,1,364
+13489249,Sofa Space available in quirky North London Flat,44238371,Walt,,Islington,51.57203654,-0.131974751,Shared room,23,1,16,26/09/2016,5,4,356
+13455184,Female bed in shared twin studio en-suite w/ Wi-Fi,76878654,Newington Court,,Islington,51.55799175,-0.091258714,Shared room,32,1,1,04/07/2016,0.33,3,16
+13146779,1 bed 4 shared room- Kings cross 14,45920518,Karla,,Islington,51.53187255,-0.118479109,Shared room,24,2,13,25/09/2016,3.05,14,343
+10466823,Spacious Living Room,53935950,Klodian,,Islington,51.5306521,-0.117186802,Shared room,50,1,0,,,1,0
+11098293,Sofa sleeper in modern apartment,29061714,Arne,,Islington,51.52562247,-0.098048873,Shared room,35,1,4,30/06/2016,0.6,2,76
+13620132,a single-bed is being renting of the studio.,37658901,Ruby,,Islington,51.55786308,-0.124981497,Shared room,64,1,3,17/07/2016,0.97,1,364
+7522224,Bed for a girl in King´s Cross :),39418020,Aida,,Islington,51.52769877,-0.114337375,Shared room,30,1,0,,,1,0
+2397177,fresh bright flat in Canonbury N1,3522747,Leo,,Islington,51.54904877,-0.086469922,Shared room,70,1,10,18/09/2016,0.66,1,360
+2378901,Berth on a 60ft narrowboat 'Dolly',1752300,Gregory,,Islington,51.5333556,-0.122122939,Shared room,104,1,1,14/07/2014,0.04,1,365
+14051922,"Cosy Air Bed Mattress In Living Room, North London",67197906,Daniela,,Islington,51.56538569,-0.112299491,Shared room,22,1,5,29/09/2016,2.88,1,2
+13114275,1 bed 4 shared room -Kings Cross 12,45920518,Karla,,Islington,51.53232755,-0.119020259,Shared room,24,1,12,26/08/2016,2.83,14,307
+5955710,Best sofa bed in King's Cross!,8085022,Louise,,Islington,51.53884556,-0.118421376,Shared room,30,1,20,19/10/2015,1.14,2,275
+14738526,KX House 민박,91810260,Jin-Hee,,Islington,51.5392797,-0.116254235,Shared room,53,2,0,,,2,365
+14851794,1 bed within a shared two bedroom apartment,41919193,Acorn Of London,,Islington,51.52459529,-0.110217712,Shared room,58,1,0,,,9,362
+11123443,Gorgeous flat with mezzanine bed,24050985,Hassan,,Islington,51.54435959,-0.109680875,Shared room,30,1,5,23/09/2016,0.68,1,362
+15308626,Cosy flat in Central London,74877008,Maeva,,Islington,51.55392375,-0.119093618,Shared room,45,1,0,,,2,365
+13099134,1 Bed 6 shared room - Kings Cross 6,45920518,Karla,,Islington,51.53428433,-0.120142816,Shared room,19,1,13,02/10/2016,4.02,14,353
+10573641,A comfortable couch in Holloway,5781057,Jamie,,Islington,51.56020477,-0.121237083,Shared room,20,14,0,,,1,0
+436028,Comfortable sofabed in North London,2166171,Jack,,Islington,51.56819104,-0.129742928,Shared room,22,1,42,12/08/2016,0.78,1,85
+13099362,1 Bed 2 shared room -King's Cross 8,45920518,Karla,,Islington,51.53229867,-0.12030107,Shared room,24,1,19,19/09/2016,4.32,14,342
+13099196,1 Bed 6 shared room - Kings Cross 5,45920518,Karla,,Islington,51.5343077,-0.118611622,Shared room,22,2,12,18/09/2016,3.4,14,352
+13099027,1 Bed 6 shared room - Kings Cross 4,45920518,Karla,,Islington,51.53242364,-0.120061041,Shared room,23,1,8,28/09/2016,1.97,14,320
+13098780,1 Bed 6 shared room - Kings Cross 2,45920518,Karla,,Islington,51.5324863,-0.118540823,Shared room,23,1,9,01/10/2016,4.22,14,363
+13099270,1 Bed 2 shared room -King's Cross 7,45920518,Karla,,Islington,51.53275444,-0.120389166,Shared room,24,1,8,19/09/2016,1.9,14,351
+13881494,Nice flat 10 minutes to Kings Cross,74877008,Maeva,,Islington,51.55417546,-0.120271474,Shared room,40,1,4,20/09/2016,1.85,2,324
+13094440,1 Bed 6 shared room - Kings Cross 1,45920518,Karla,,Islington,51.5323113,-0.120001779,Shared room,19,1,16,30/09/2016,3.78,14,341
+6251491,Bed in North London Apartment,30902785,Chris,,Islington,51.55289381,-0.095477123,Shared room,24,1,32,21/09/2016,1.87,2,359
+14743672,Modern Top Floor Double Bedroom in Beautiful House,10129086,Eva,,Islington,51.56806522,-0.130510675,Shared room,33,21,0,,,1,61
+13562381,"SHARED living room, sunny & spacious in N1",78150423,Nikolas,,Islington,51.54194649,-0.103876515,Shared room,25,1,9,23/09/2016,4.66,1,4
+6082528,Sunny Bedroom in King's Cross,13315429,Dino,,Islington,51.53715483,-0.117423865,Shared room,110,4,0,,,2,0
+10145330,SweetHomeLondon,52068369,艾,,Islington,51.56339517,-0.127316761,Shared room,38,4,0,,,1,364
+11711643,Lovely twin room in Finsbury Park,22314004,Ruth Isabella,,Islington,51.55988606,-0.11757997,Shared room,20,1,0,,,1,0
+13146616,1 bed 4 shared room- Kings cross 13,45920518,Karla,,Islington,51.53244374,-0.120171442,Shared room,24,2,10,30/09/2016,3.03,14,338
+13113076,1 Bed 2 shared room -Kings Cross 10,45920518,Karla,,Islington,51.53172265,-0.119811008,Shared room,25,2,11,22/09/2016,2.66,14,347
+9257699,WarmCleanCozy Room in central London (zone 2),5387533,Ryan,,Islington,51.56481697,-0.128328755,Shared room,21,2,0,,,2,87
+12794987,Living room sofa bed for ladies,69678977,Alex,,Islington,51.54677906,-0.117331455,Shared room,25,1,15,30/09/2016,3.72,2,353
+13098886,1 Bed 6 shared room - Kings Cross 3,45920518,Karla,,Islington,51.53359538,-0.118291639,Shared room,23,1,10,02/10/2016,2.38,14,345
+13114152,1 bed 4 shared room- Kings cross 11,45920518,Karla,,Islington,51.53241717,-0.118879178,Shared room,24,1,5,18/09/2016,1.32,14,330
+8261866,Well located cozy&comfortable room,42982631,Melissa,,Islington,51.55019488,-0.105818386,Shared room,22,4,0,,,1,0
+13109952,1 Bed 2 shared room -Kings Cross 9,45920518,Karla,,Islington,51.53186926,-0.119073841,Shared room,24,2,10,18/09/2016,2.42,14,349
+5335598,Good deal room with great location,27541647,ACFiuza,,Islington,51.56567954,-0.126622719,Shared room,45,1,0,,,1,0
+12915862,Double room to sublet in a 3 bedrooms in Dalston,8865563,Marion,,Hackney,51.5556801,-0.069380911,Shared room,18,5,0,,,1,0
+14496739,friendly apartment,62054160,Jill,,Hackney,51.5571864,-0.061922209,Shared room,20,1,1,26/09/2016,1,14,364
+1299943,"Double room, 2 Bed Dalston, Hackney",4954762,Ursula,,Hackney,51.54961523,-0.069862993,Shared room,55,2,0,,,1,365
+13201256,double sofa bed,62054160,Jill,,Hackney,51.55690198,-0.063717684,Shared room,2001,1,0,,,14,358
+4265327,Private LivingRoom in Islingston,5696889,Clarens,,Hackney,51.5500133,-0.073468634,Shared room,25,1,23,07/08/2016,1.03,1,365
+11467472,Really nice room in Broadway Market,27506123,Tyler,,Hackney,51.53613897,-0.065776468,Shared room,29,1,0,,,1,0
+13921898,Double room in Dalston sleeps 3 & double bedroom .,82448401,Maureen,,Hackney,51.55316757,-0.067873614,Shared room,26,1,8,19/09/2016,3,1,135
+5203921,Futon bed in private@night space (Living Room),7021601,Mary,,Hackney,51.5540157,-0.069941188,Shared room,23,2,3,26/10/2015,0.17,2,87
+986195,Comfy sofa bed in East London,1580701,Nadine,,Hackney,51.55281253,-0.03231492,Shared room,27,2,16,16/12/2015,0.59,1,365
+4661256,Large Double Room - Hackney,4658260,Lukas,,Hackney,51.53817301,-0.056132474,Shared room,40,8,0,,,1,0
+15155313,Room to share.,96142556,Roberto,,Hackney,51.55424174,-0.056854477,Shared room,15,1,0,,,1,365
+10936535,Cozy Tidy two Beds Room in Hackney,56702344,Nieke,,Hackney,51.55720949,-0.075959016,Shared room,40,3,0,,,1,365
+11487718,"AIR BED, NICE AREA IN LONDON",57280046,Ornella,,Hackney,51.53592683,-0.056038292,Shared room,25,1,1,26/05/2016,0.23,1,345
+7949730,Sofa bed in Dalston,3887903,Lisa,,Hackney,51.55412018,-0.082122325,Shared room,45,1,10,04/08/2016,0.8,1,323
+13957604,"Large, airy double room in the heart of Shoreditch",28703277,Emma,,Hackney,51.52703588,-0.080001167,Shared room,60,1,1,14/08/2016,0.59,1,0
+9815752,Old street  iQ shoreditch,44247311,Jing,,Hackney,51.5281327,-0.088384119,Shared room,80,20,0,,,1,365
+14395391,Peaceful bedroom in shared Hackney warehouse,11307187,Deborah,,Hackney,51.53850466,-0.053585168,Shared room,40,1,0,,,1,0
+14422355,Cosy Pillow stop,88745904,Dionne,,Hackney,51.53757166,-0.069032679,Shared room,20,1,0,,,1,0
+3203863,"Cosy mezzanine, Dalston/ N16",13778209,Rabbitt,,Hackney,51.5506103,-0.076683435,Shared room,45,1,42,25/09/2016,1.48,1,13
+11836506,"SHOREDITCH, LDN FIELDS, VITORIA PRK",43092930,Darren,,Hackney,51.54357482,-0.045096597,Shared room,40,1,0,,,2,365
+14976568,Dormitory Beds for Female with breakfast & laundry,28650375,Hugh,,Hackney,51.57364245,-0.091981232,Shared room,35,1,0,,,9,83
+6852014,Photographer Studio Space - Shared,35904047,Suelan,,Hackney,51.56194208,-0.09654026,Shared room,21,2,4,28/09/2016,0.85,1,365
+14316105,Lovely Loftbed and living space in Islington Zn 1,23520619,Ollie,,Hackney,51.53837434,-0.085375448,Shared room,17,1,2,19/09/2016,2,1,338
+13053399,double sofa bed,62054160,Jill,,Hackney,51.55716209,-0.060004243,Shared room,2202,1,0,,,14,363
+15019442,Male Dormitory up to 6 People with Breakfast,28650375,Hugh,,Hackney,51.57350778,-0.092636126,Shared room,35,1,0,,,9,89
+13053174,sofa bed,62054160,Jill,,Hackney,51.55750286,-0.061364132,Shared room,30,1,0,,,14,83
+799154,Designer Living,4049268,Denis,,Hackney,51.57248857,-0.089061021,Shared room,50,1,0,,,1,365
+12563375,"London, Hackeny Central",34418315,Sara,,Hackney,51.55017799,-0.048453883,Shared room,25,5,0,,,1,363
+4466831,"Comfy couch in Hackney, London",23176025,H-C,,Hackney,51.54547877,-0.034807539,Shared room,26,1,30,21/09/2016,1.35,1,4
+13003672,Living rm with Balcony and King Bed,39451724,Nuh,,Hackney,51.53507568,-0.081094704,Shared room,30,2,0,,,2,351
+5528757,Comfortable Couch in Victoria Park,26201680,Yelena,,Hackney,51.53739322,-0.048263234,Shared room,25,1,55,13/06/2016,2.98,2,278
+4488121,Designers’ Loft Apartment,9885170,Ai Pheng & Patrick,,Hackney,51.53779824,-0.077328476,Shared room,45,1,19,07/07/2016,0.85,1,358
+13651711,Male bed in shared twin studio en-suite with Wi-Fi,76878654,Newington Court,,Hackney,51.55686646,-0.090336384,Shared room,32,1,1,02/07/2016,0.32,3,0
+7573075,Happy flat in the heart of art!,36285550,Naomi,,Hackney,51.54127954,-0.069156097,Shared room,45,1,1,19/08/2015,0.07,1,365
+13387343,Bed for two in vibrant Hackney,75078491,Fausto,,Hackney,51.54397243,-0.051433406,Shared room,40,1,2,25/06/2016,0.56,2,66
+13494480,"Absolute bargain, shared room in zone 2 of London",16074848,Enes,,Haringey,51.57891469,-0.112020062,Shared room,20,1,0,,,1,364
+15320293,"art, warehouse, music, performance, international",97613703,Paloma,,Haringey,51.5754231,-0.087796729,Shared room,20,5,0,,,1,15
+13672509,London welcomes you.....,23570335,Suman,,Haringey,51.61022951,-0.13438234,Shared room,30,1,0,,,1,358
+15173752,Britannia Houseshare - Half Twin 2 (Shared),1674188,Adele Hannah,,Haringey,51.59109735,-0.06666707,Shared room,18,7,0,,,37,274
+14256266,Cosy double room in Muswell Hill,4852197,Ian,,Haringey,51.58736744,-0.146352111,Shared room,35,1,1,09/09/2016,1,1,337
+3983414,one bed apartment off Muswell Hill ,20645857,David,,Haringey,51.58956414,-0.147890231,Shared room,32,1,0,,,1,365
+14981301,Bright single room,44875582,Marzia,,Haringey,51.58144562,-0.078248815,Shared room,20,6,0,,,1,78
+15169099,Britannia Houseshares - Half Twin (Shared),1674188,Adele Hannah,,Haringey,51.59049192,-0.065139171,Shared room,18,7,0,,,37,287
+13644020,2 stops to Kings Cross St Pancras!,42559846,Russell,,Haringey,51.56805197,-0.107241187,Shared room,20,1,12,25/09/2016,4.86,1,20
+11252461,"Elegant, Ambient, feel throughout.",50121799,Fabio,,Haringey,51.58680759,-0.116249587,Shared room,30,1,0,,,2,365
+9708053,"Elegant, Victorian Apartment.....",50121799,Fabio,,Haringey,51.58682779,-0.116305119,Shared room,50,1,0,,,2,365
+12980061,Studio flat for sharing great value,49113956,Dauren,,Haringey,51.57385885,-0.139694453,Shared room,23,1,0,,,1,89
+7997872,Large massive room in living room,42218046,Sheara,,Haringey,51.59456862,-0.103508197,Shared room,30,1,0,,,1,0
+949787,"Comfy bed, quiet location, garden view, near tube",5079023,Anna,,Haringey,51.58536088,-0.100674477,Shared room,21,1,99,26/09/2016,2.82,1,324
+5013525,"NEW room, 15 mins city centre!",25856467,Natasha,,Haringey,51.57700526,-0.080290166,Shared room,30,1,3,02/10/2016,3,1,105
+683935,Futon in Family Home close to Tube,2257814,Zaza & Kevin,,Haringey,51.60814424,-0.123491237,Shared room,30,1,6,06/05/2016,0.12,2,173
+4480238,"cozy sofa for one, 3min from tube",12717956,Ivona,,Haringey,51.59941273,-0.112257545,Shared room,21,2,39,25/09/2016,1.74,3,362
+15173375,2 Bedroom maisonette flat near wanstead pk station,96298015,Anne,,Newham,51.55203804,0.017238148,Shared room,78,1,0,,,1,365
+9133095,Marcos,47569386,Marcos,,Newham,51.5181895,0.052264603,Shared room,8,1,5,31/07/2016,1.1,1,364
+6454113,Designed flat/shared livingroom,33680213,Beata,,Newham,51.50689374,0.065706651,Shared room,60,1,4,21/06/2015,0.24,1,365
+15098615,"FUN HOUSE TO SHARE,& MAKE FRIENDS",61714911,Asim,,Newham,51.53238134,0.01298112,Shared room,14,7,2,02/10/2016,2,25,360
+14972388,Friends House - 19 min to Big Ben #MixedRoom,94303584,Friends,,Newham,51.51387818,0.016135492,Shared room,15,1,2,01/10/2016,2,8,80
+13071015,"A floating adventure onboard narrowboat ""Ashby""",72454966,Graeme,,Newham,51.52781314,-0.007766387,Shared room,25,1,1,29/07/2016,0.45,1,22
+10305697,,51305653,Yongxu,,Newham,51.5321331,-0.011843401,Shared room,27,1,0,,,1,0
+480157,Feel like Home and Free in London,2095131,Tomaz,,Newham,51.55423859,0.029505288,Shared room,22,1,7,31/07/2016,0.14,1,365
+12966902,"Cosy, modern & newly refurbished",71286492,Ellen,,Newham,51.55062635,0.026585039,Shared room,16,1,14,26/09/2016,3.53,2,277
+9871776,Shared room near Olympic Park,50801130,Zheng,,Newham,51.53423042,-0.007368385,Shared room,40,1,0,,,1,0
+13206154,Clean Single bed in East London,15909627,Cindy,,Newham,51.51182911,0.013048152,Shared room,23,1,5,30/06/2016,1.25,3,306
+15004340,Friends House - 19 min to Big Ben #Girls02,94303584,Friends,,Newham,51.51423454,0.015362225,Shared room,15,1,1,12/09/2016,1,8,62
+15253653,Friends House - 19 min to Big Ben #Mixed03,94303584,Friends,,Newham,51.51423516,0.015329459,Shared room,15,1,1,30/09/2016,1,8,62
+10492571,Single Room in excellent condition,54089908,Kristen,,Newham,51.50071909,0.066984449,Shared room,20,1,0,,,1,0
+15016198,Pull out sofa bed in my room,69389608,Melinda,,Newham,51.5457107,0.006159614,Shared room,8,1,3,26/09/2016,3,1,67
+4001046,Great room 10min Canary Wharf/ExCel,19108368,Joanna,,Newham,51.53024217,0.00629544,Shared room,39,1,2,03/07/2015,0.13,3,359
+3738696,***** GREAT SAVING IN LONDON :),19108368,Joanna,,Newham,51.53281325,0.00701197,Shared room,99,2,4,03/01/2015,0.16,3,180
+15298091,Friends House - 15 min to Big Ben #Mixed04,94303584,Friends,,Newham,51.51426399,0.015753951,Shared room,15,1,0,,,8,124
+6643188,Front room with plenty of space,34770460,Alix,,Newham,51.53544504,0.013450477,Shared room,55,1,0,,,1,365
+14972974,Friends House - 19 Min to Big Ben #Mixed02,94303584,Friends,,Newham,51.51440775,0.015609935,Shared room,15,1,1,12/09/2016,1,8,87
+14973103,Friends House - 19 min to BigBen #Girls01,94303584,Friends,,Newham,51.51428972,0.01628639,Shared room,15,1,2,17/09/2016,2,8,89
+9589011,Cedo stanza per vacanza in italia,49632475,Ilaria,,Newham,51.54398325,-0.008048921,Shared room,17,1,0,,,1,0
+14249146,Bunk bed in 3 bed dormitary,69819060,Sid,,Barking and Dagenham,51.53819301,0.083491247,Shared room,10,3,1,10/08/2016,0.55,9,344
+13970414,Sing bed in room sharing,76911791,Seema,,Barking and Dagenham,51.53823174,0.084960386,Shared room,14,3,3,18/08/2016,1.15,7,363
+13745514,1 bunk bed in sharing room,76911791,Seema,,Barking and Dagenham,51.53772265,0.083013693,Shared room,13,3,5,15/09/2016,1.76,7,347
+13939455,Single bed Shared room with curtain,69819060,Sid,,Barking and Dagenham,51.53748076,0.083445508,Shared room,16,3,0,,,9,364
+12257780,Modern Double room,61146713,Mike,,Barking and Dagenham,51.57598609,0.137241875,Shared room,20,2,3,10/09/2016,0.68,1,363
+13527849,Double bed room in sharing flat,76911791,Seema,,Barking and Dagenham,51.53809916,0.082889548,Shared room,22,2,4,06/09/2016,1.19,7,336
